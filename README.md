@@ -19,5 +19,5 @@ nr.).
 
 ## Got corrections?
 
-Should you hold a registration number that is missing or incorrect, then feel
-free to send a pull request.
+Should you hold a registration number that is missing or incorrect in the
+database, then feel free to send a pull request.
