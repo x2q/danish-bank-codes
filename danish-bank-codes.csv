@@ -6,7 +6,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0044,Nordea,Vordingborg,,Nordea Vordingborg Afdeling,"Prins Jørgens Alle 6B, 4760 Vordingborg",+4570333333,www.nordea.dk
 0045,Nordea,Vordingborg,,Nordea Vordingborg Afdeling,"Prins Jørgens Alle 6B, 4760 Vordingborg",+4570333333,www.nordea.dk
 0046,Nordea,Næstved,,Nordea Næstved Afdeling,"Axeltorv 2, 4700 Næstved",+4570333333,www.nordea.dk
-0047,Nordea,Vordingborg ,Præstø,Nordea Vordingborg Afdeling,"Prins Jørgens Alle 6B, 4760 Vordingborg",+4570333333,www.nordea.dk
+0047,Nordea,Vordingborg,Præstø,Nordea Vordingborg Afdeling,"Prins Jørgens Alle 6B, 4760 Vordingborg",+4570333333,www.nordea.dk
 0048,Nordea,,,,,,www.nordea.dk
 0051,Nordea,Vordingborg,,Nordea Vordingborg Afdeling,"Prins Jørgens Alle 6B, 4760 Vordingborg",+4570333333,www.nordea.dk
 0052,Nordea,Vordingborg,,Nordea Vordingborg Afdeling,"Prins Jørgens Alle 6B, 4760 Vordingborg",+4570333333,www.nordea.dk
@@ -18,7 +18,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0102,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 0103,Nordea,Trianglen,,Nordea Trianglen Afdeling,"Østerbrogade 78, 2100 København Ø",+4570333333,www.nordea.dk
 0104,Nordea,Svanemølle,,Nordea Svanemølle Afdeling,"Østerbrogade 137, 2100 København Ø",+4570333333,www.nordea.dk
-0105,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+0105,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 0106,Nordea,Amagerbro,,Nordea Amagerbro Afdeling,"Amagerbrogade 92, 2300 København S",+4570333333,www.nordea.dk
 0107,Nordea,Falkoner Allé,,Nordea Falkoner Alle Afdeling,"Falkoner Alle 53, 2000 Frederiksberg",+4570333333,www.nordea.dk
 0108,Nordea,Nørrebro,,Nordea Nørrebro Afdeling,"Nørrebrogade 180, 2200 København N",+4570333333,www.nordea.dk
@@ -31,13 +31,13 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0116,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 0117,Nordea,,,,,,www.nordea.dk
 0118,Nordea,Vanløse,,Nordea Vanløse Afdeling,"Jernbane Alle 47, 2720 Vanløse",+4570333333,www.nordea.dk
-0119,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+0119,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 0120,Nordea,Sundbyvester,,Nordea Sundbyvester Afdeling,"Amagerbrogade 245, 2300 København S",+4570333333,www.nordea.dk
-0121,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
-0122,Nordea,Trianglen ,"Østerport, closed 2011",Nordea Trianglen Afdeling,"Østerbrogade 78, 2100 København Ø",+4570333333,www.nordea.dk
+0121,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
+0122,Nordea,Trianglen,"Østerport, closed 2011",Nordea Trianglen Afdeling,"Østerbrogade 78, 2100 København Ø",+4570333333,www.nordea.dk
 0123,Nordea,Kastrup,,Nordea Kastrup Afdeling,"Skottegården 2, 2770 Kastrup",+4570333333,www.nordea.dk
 0124,Nordea,Glostrup,,Nordea Glostrup Afdeling,"Hovedvejen 112, 2600 Glostrup",+4570333333,www.nordea.dk
-0125,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+0125,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 0126,Nordea,,,,,,www.nordea.dk
 0127,Nordea,,,,,,www.nordea.dk
 0128,Nordea,Sundbyvester,,Nordea Sundbyvester Afdeling,"Amagerbrogade 245, 2300 København S",+4570333333,www.nordea.dk
@@ -53,7 +53,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0138,Nordea,Glostrup,,Nordea Glostrup Afdeling,"Hovedvejen 112, 2600 Glostrup",+4570333333,www.nordea.dk
 0139,Nordea,Glostrup,,Nordea Glostrup Afdeling,"Hovedvejen 112, 2600 Glostrup",+4570333333,www.nordea.dk
 0140,Nordea,Søborg,,Nordea Søborg Afdeling,"Søborg Hovedgade 112, 2860 Søborg",+4570333333,www.nordea.dk
-0141,Nordea,Lyngby ,"Bagsværd, closed 2014",Nordea Lyngby Afdeling,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570333333,www.nordea.dk
+0141,Nordea,Lyngby,"Bagsværd, closed 2014",Nordea Lyngby Afdeling,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570333333,www.nordea.dk
 0142,Nordea,Kongens Nytorv,,Nordea Kongens Nytorv Afdeling,"Kongens Nytorv 28, 1050 København K",+4570333333,www.nordea.dk
 0143,Nordea,Frederiksberg / Østerbro,,Nordea Frederiksberg Afdeling,"Smallegade 2, 2000 Frederiksberg",+4570333333,www.nordea.dk
 0144,Nordea,Rødovre,,Nordea Rødovre Afdeling,"Tårnvej 151, 2610 Rødovre",+4570333333,www.nordea.dk
@@ -63,7 +63,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0149,Nordea,Charlottenlund,,Nordea Charlottenlund Afdeling,"Jægersborg Alle 22, 2920 Charlottenlund",+4570333333,www.nordea.dk
 0150,Nordea,Svanemølle,,Nordea Svanemølle Afdeling,"Østerbrogade 137, 2100 København Ø",+4570333333,www.nordea.dk
 0151,Nordea,,,,,,www.nordea.dk
-0152,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+0152,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 0154,Nordea,Valby,,Nordea Valby Afdeling,"Valby Langgade 44, 2500 Valby",+4570333333,www.nordea.dk
 0155,Nordea,Falkoner Allé,,Nordea Falkoner Alle Afdeling,"Falkoner Alle 53, 2000 Frederiksberg",+4570333333,www.nordea.dk
 0156,Nordea,Hvidovre Station,,Nordea Hvidovre Afdeling,"Hvidovrevej 338B, 2650 Hvidovre",+4570333333,www.nordea.dk
@@ -72,7 +72,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0159,Nordea,Lyngby,,Nordea Lyngby Afdeling,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570333333,www.nordea.dk
 0160,Nordea,Holte,,Nordea Holte Afdeling,"Holte Stationsvej 20, 2840 Holte",+4570333333,www.nordea.dk
 0161,Nordea,Bo-Administrationen,,,,,www.nordea.dk
-0163,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+0163,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 0164,Nordea,Svanemølle,,Nordea Svanemølle Afdeling,"Østerbrogade 137, 2100 København Ø",+4570333333,www.nordea.dk
 0165,Nordea,Tårnby,,Nordea Tårnby Afdeling,"Tårnby Torv 9, 2770 Kastrup",+4570333333,www.nordea.dk
 0166,Nordea,Sundbyvester,,Nordea Sundbyvester Afdeling,"Amagerbrogade 245, 2300 København S",+4570333333,www.nordea.dk
@@ -83,14 +83,14 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0171,Nordea,Holte,,Nordea Holte Afdeling,"Holte Stationsvej 20, 2840 Holte",+4570333333,www.nordea.dk
 0172,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 0173,Nordea,Sundbyvester,,Nordea Sundbyvester Afdeling,"Amagerbrogade 245, 2300 København S",+4570333333,www.nordea.dk
-0174,Nordea,Vanløse ,"Husum, closed 2014",Nordea Vanløse Afdeling,"Jernbane Allé 47, 2720 Vanløse",+4570333333,www.nordea.dk
+0174,Nordea,Vanløse,"Husum, closed 2014",Nordea Vanløse Afdeling,"Jernbane Allé 47, 2720 Vanløse",+4570333333,www.nordea.dk
 0175,Nordea,,,,,,www.nordea.dk
 0176,Nordea,Sundbyvester,,Nordea Sundbyvester Afdeling,"Amagerbrogade 245, 2300 København S",+4570333333,www.nordea.dk
 0177,Nordea,Vanløse,,Nordea Vanløse Afdeling,"Jernbane Alle 47, 2720 Vanløse",+4570333333,www.nordea.dk
 0178,Nordea,,,,,,www.nordea.dk
 0179,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 0180,Nordea,Herlev,,Nordea Herlev Afdeling,"Herlev Torv 18, 2730 Herlev",+4570333333,www.nordea.dk
-0181,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+0181,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 0182,Nordea,Hvidovre Station,,Nordea Hvidovre Afdeling,"Hvidovrevej 338B, 2650 Hvidovre",+4570333333,www.nordea.dk
 0183,Nordea,Frederiksberg,,Nordea Frederiksberg Afdeling,"Smallegade 2, 2000 Frederiksberg",+4570333333,www.nordea.dk
 0184,Nordea,Svanemølle,,Nordea Svanemølle Afdeling,"Østerbrogade 137, 2100 København Ø",,www.nordea.dk
@@ -108,7 +108,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0225,Danske Bank,Gentofte,,Danske Bank Gentofte Afdeling,"Gentoftegade 50, 2820 Gentofte",+4545122840,www.danskebank.dk
 0227,Danske Bank,Solrød,,Danske Bank Solrød Afdeling,"Solrød Center 15, 2680 Solrød Strand",+4545120650,www.danskebank.dk
 0233,Danske Bank,Allerød,,Danske Bank Allerød Afdeling,"M. D. Madsensvej 10, 3450 Allerød",+4545120930,www.danskebank.dk
-0238,Danske Bank,Amagerbrogade ,Holmbladsgade,Danske Bank Amagerbrogade Afdeling,"Amagerbrogade 193, 2300 København S",+4545124740,www.danskebank.dk
+0238,Danske Bank,Amagerbrogade,Holmbladsgade,Danske Bank Amagerbrogade Afdeling,"Amagerbrogade 193, 2300 København S",+4545124740,www.danskebank.dk
 0239,Danske Bank,Ishøj,,Danske Bank Ishøj Afdeling,"Ishøj Vestergade 12, 2635 Ishøj",+4545123840,www.danskebank.dk
 0241,Danske Bank,Helsingør,,Danske Bank Helsingør Afdeling,"Stengade 57B, 3000 Helsingør",+4545120560,www.danskebank.dk
 0242,Danske Bank,Amagerbrogade,,Danske Bank Amagerbrogade Afdeling,"Amagerbrogade 193, 2300 København S",+4545124740,www.danskebank.dk
@@ -116,22 +116,22 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0247,Danske Bank,Landbrugscenter Øst og Midtjylland,,Danske Bank Støvring Afdeling,"City Centret, 9530 Støvring",+4545124120,www.danskebank.dk
 0248,Danske Bank,Hvidovre,,Danske Bank Hvidovre Afdeling,"Hvidovrevej 135, 2650 Hvidovre",+4545122730,www.danskebank.dk
 0249,Danske Bank,Hørsholm,,Danske Bank Hørsholm Afdeling,"Hørsholm Midtpunkt, 2970 Hørsholm",+4545124880,www.danskebank.dk
-0250,Danske Bank,Holmens Kanal ,City,Danske Bank Holmens Kanal Afdeling,"Holmens Kanal 2, 1092 København K",+4545124120,www.danskebank.dk
+0250,Danske Bank,Holmens Kanal,City,Danske Bank Holmens Kanal Afdeling,"Holmens Kanal 2, 1092 København K",+4545124120,www.danskebank.dk
 0252,Danske Bank,Østerbro,,Danske Bank Østerbro Afdeling,"Østerbrogade 68, 2100 København Ø",+4545123480,www.danskebank.dk
 0254,Danske Bank,Christianshavn,,Danske Bank Christianshavn Afdeling,"Torvegade 45, 1400 København K",+4545125650,www.danskebank.dk
 0255,Danske Bank,Vesterport,,Danske Bank Vesterport Afdeling,"Vesterbrogade 10, 1620 København V",+4545122260,www.danskebank.dk
 0258,Danske Bank,Brønshøj,,Danske Bank Brønshøj Afdeling,"Frederikssundsvej 196, 2700 Brønshøj",+4545123170,www.danskebank.dk
-0259,Danske Bank,Frederiksberg ,Fuglebakke,Danske Bank Frederiksberg Afdeling,"Falkoner Alle 55, 2000 Frederiksberg",+4545120180,www.danskebank.dk
+0259,Danske Bank,Frederiksberg,Fuglebakke,Danske Bank Frederiksberg Afdeling,"Falkoner Alle 55, 2000 Frederiksberg",+4545120180,www.danskebank.dk
 0260,Danske Bank,Lyngbyvej,,Danske Bank Lyngbyvej Afdeling,"Lyngbyvej 34, 2100 København Ø",+4545124720,www.danskebank.dk
-0261,Danske Bank,Frederiksberg ,Peter Bangs Vej,Danske Bank Frederiksberg Afdeling,"Falkoner Alle 55, 2000 Frederiksberg",+4545120180,www.danskebank.dk
-0263,Danske Bank,Charlottenlund ,Øregård,Danske Bank Charlottenlund Afdeling,"Jægersborg Alle 31, 2920 Charlottenlund",+4545124500,www.danskebank.dk
+0261,Danske Bank,Frederiksberg,Peter Bangs Vej,Danske Bank Frederiksberg Afdeling,"Falkoner Alle 55, 2000 Frederiksberg",+4545120180,www.danskebank.dk
+0263,Danske Bank,Charlottenlund,Øregård,Danske Bank Charlottenlund Afdeling,"Jægersborg Alle 31, 2920 Charlottenlund",+4545124500,www.danskebank.dk
 0264,Danske Bank,Frederikssundsvej,,Danske Bank Frederikssundsvej Afdeling,"Frederikssundsvej 52, 2400 København NV",+4545120630,www.danskebank.dk
 0265,Danske Bank,Toftegårds Allé,,Danske Bank Toftegårds Alle Afdeling,"Toftegårds Alle 42, 2500 Valby",+4545120170,www.danskebank.dk
 0266,Danske Bank,Hvidovre,,Danske Bank Hvidovre Afdeling,"Hvidovrevej 135, 2650 Hvidovre",+4545122730,www.danskebank.dk
 0268,Danske Bank,Amagerbrogade,,Danske Bank Amagerbrogade Afdeling,"Amagerbrogade 193, 2300 København S",+4545124740,www.danskebank.dk
 0270,Danske Bank,Glostrup,,Danske Bank Glostrup Afdeling,"Hovedvejen 109, 2600 Glostrup",+4545126700,www.danskebank.dk
 0271,Danske Bank,Herlev,,Danske Bank Herlev Afdeling,"Herlev Torv 17, 2730 Herlev",+4545120270,www.danskebank.dk
-0272,Danske Bank,Charlottenlund ,Ordrup,Danske Bank Charlottenlund Afdeling,"Jægersborg Alle 31, 2920 Charlottenlund",+4545124500,www.danskebank.dk
+0272,Danske Bank,Charlottenlund,Ordrup,Danske Bank Charlottenlund Afdeling,"Jægersborg Alle 31, 2920 Charlottenlund",+4545124500,www.danskebank.dk
 0274,Danske Bank,Nørreport,,Danske Bank Nørreport Afdeling,"Nørre Voldgade 68, 1358 København K",+4545120600,www.danskebank.dk
 0275,Danske Bank,Søborg,,Danske Bank Søborg Afdeling,"Søborg Hovedgade 71, 2860 Søborg",+4545124270,www.danskebank.dk
 0276,Danske Bank,Store Kongensgade,,Danske Bank Store Kongensgade Afdeling,"Store Kongensgade 49, 1264 København K",+4545120110,www.danskebank.dk
@@ -151,11 +151,11 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0314,Nordea,Næstved,,Nordea Næstved Afdeling,"Axeltorv 2, 4700 Næstved",+4570333333,www.nordea.dk
 0315,Nordea,Taastrup,,Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
 0316,Nordea,Taastrup,,Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
-0317,Nordea,Taastrup ,"Hedehusene, closed 2014",Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
+0317,Nordea,Taastrup,"Hedehusene, closed 2014",Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
 0319,Nordea,Værløse,,Nordea Værløse Afdeling,"Bymidten 50, 3500 Værløse",+4570333333,www.nordea.dk
-0320,Nordea,Ballerup ,Smørum,Nordea Ballerup Afdeling,"Centrumgaden 1, 2750 Ballerup",+4570333333,www.nordea.dk
+0320,Nordea,Ballerup,Smørum,Nordea Ballerup Afdeling,"Centrumgaden 1, 2750 Ballerup",+4570333333,www.nordea.dk
 0321,Nordea,Skovlunde Centret,,Nordea Skovlunde Afdeling,"Torvestrædet 22- 24, 2740 Skovlunde",+4570333333,www.nordea.dk
-0322,Nordea,Ballerup ,Måløv,Nordea Ballerup Afdeling,"Centrumgaden 1, 2750 Ballerup",+4570333333,www.nordea.dk
+0322,Nordea,Ballerup,Måløv,Nordea Ballerup Afdeling,"Centrumgaden 1, 2750 Ballerup",+4570333333,www.nordea.dk
 0327,Nordea,Roskilde,,Nordea Roskilde Afdeling,"Algade 16, 4000 Roskilde",+4570333333,www.nordea.dk
 0328,Nordea,Roskilde,,Nordea Roskilde Afdeling,"Algade 16, 4000 Roskilde",+4570333333,www.nordea.dk
 0329,Nordea,Jyllinge,,Nordea Jyllinge Afdeling,"Jyllinge Centret 6, 4040 Jyllinge",+4570333333,www.nordea.dk
@@ -175,7 +175,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0352,Nordea,Næstved,,Nordea Næstved Afdeling,"Axeltorv 2, 4700 Næstved",+4570333333,www.nordea.dk
 0354,Nordea,Ringsted,,Nordea Ringsted Afdeling,"Torvet 10 - 12, 4100 Ringsted",+4570333333,www.nordea.dk
 0373,Nordea,Slagelse,,Nordea Slagelse Afdeling,"Smedegade 8, 4200 Slagelse",+4570333333,www.nordea.dk
-0378,Nordea,Dianalund ,Høng,Nordea Dianalund Afdeling,"Torvet 1, 4293 Dianalund",+4570333333,www.nordea.dk
+0378,Nordea,Dianalund,Høng,Nordea Dianalund Afdeling,"Torvet 1, 4293 Dianalund",+4570333333,www.nordea.dk
 0379,Nordea,,,,,,www.nordea.dk
 0385,Nordea,Dianalund,,Nordea Dianalund Afdeling,"Torvet 1, 4293 Dianalund",+4570333333,www.nordea.dk
 0388,Nordea,Slagelse,,Nordea Slagelse Afdeling,"Smedegade 8, 4200 Slagelse",+4570333333,www.nordea.dk
@@ -185,8 +185,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0400,Lån og Spar Bank,Hovedkontoret,,Lån og Spar Bank,"Højbro Plads 9-11, 1200 København K",+4533782000,www.lsb.dk
 0404,Lån og Spar Bank,Højbro Plads,,Lån og Spar Bank,"Højbro Plads 9-11, 1200 København K",+4533782000,www.lsb.dk
 0418,Danske Bank,Roskilde,,Danske Bank Roskilde Afdeling,"Stændertorvet 5, 4000 Roskilde",+4545122100,www.danskebank.dk
-0421,Danske Bank,Inkasso,,Eksport & Import Inkasso,"2-12 Holmens Kanal, 1092 København K","+4545143626
-",www.danskebank.dk
+0421,Danske Bank,Inkasso,,Eksport & Import Inkasso,"2-12 Holmens Kanal, 1092 København K",+4545143626,www.danskebank.dk
 0424,Danske Bank,Handelsfinans,,"Sold in 2005 to LaSer/Cofinoga, owned by Galeries Lafayette Group and Cetelem (BNP Paribas Group)",,,www.danskebank.dk
 0429,Danske Bank,Roskilde,,Danske Bank Roskilde Afdeling,"Stændertorvet 5, 4000 Roskilde",+4545122100,www.danskebank.dk
 0430,Danske Bank,Roskilde,,Danske Bank Roskilde Afdeling,"Stændertorvet 5, 4000 Roskilde",+4545122100,www.danskebank.dk
@@ -222,17 +221,16 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0533,Dragsholm Sparekasse,Asnæs,,Dragsholm Sparekasse Asnæs,"Asnæs Centret 23, 4550 Asnæs",+4559652626,www.dragsholmsparekasse.dk
 0534,Dragsholm Sparekasse,Hørve,,Dragsholm Sparekasse Hørve,"Vallekildevej 23 A, 4534 Hørve",+4559656058,www.dragsholmsparekasse.dk
 0535,Dragsholm Sparekasse,Erhvervsafdelingen,,,,,www.dragsholmsparekasse.dk
-0536,Danske Bank,Odder ,"Samsø, closed 2013",Danske Bank Odder Afdeling,"Banegårdsgade 8, 8300 Odder",+4545125680,www.danskebank.dk
-0537,Dragsholm Sparekasse,Hovedkontor,,"Dragsholm Sparekasse Asnæs, Hovedkontor ","Asnæs Centret 23, 4550 Asnæs",+4559652626,www.dragsholmsparekasse.dk
+0536,Danske Bank,Odder,"Samsø, closed 2013",Danske Bank Odder Afdeling,"Banegårdsgade 8, 8300 Odder",+4545125680,www.danskebank.dk
+0537,Dragsholm Sparekasse,Hovedkontor,,"Dragsholm Sparekasse Asnæs, Hovedkontor","Asnæs Centret 23, 4550 Asnæs",+4559652626,www.dragsholmsparekasse.dk
 0539,Sparekassen Sjælland,Vig,,Sparekassen Sjælland Vig,"Vig Hovedgade 37- 39, 4560 Vig",+4559315700,alm.spks.dk
 0540,Sparekassen Sjælland,Høng,,Sparekassen Sjælland Høng,"Høng Centret, Centervej 37, 4270 Høng",+4558852193,alm.spks.dk
 0541,Sparekassen Sjælland,Sorø,,Sparekassen Sjælland Sorø,"Storgade 26A, 4180 Sorø",+4557860515,alm.spks.dk
 0542,Sparekassen Sjælland,Næstved,,Sparekassen Sjælland Næstved,"Grønnegade 20, 4700 Næstved",+4556165000,alm.spks.dk
-0543,Sparekassen Sjælland,Hillerød ,"Allerød, closed 2013",Sparekassen Sjælland Hillerød,"Frederiksgade 5, 3400 Hillerød",+4559482250,alm.spks.dk
+0543,Sparekassen Sjælland,Hillerød,"Allerød, closed 2013",Sparekassen Sjælland Hillerød,"Frederiksgade 5, 3400 Hillerød",+4559482250,alm.spks.dk
 0544,Refsnæs Sparekasse,Røsnæs,,Refsnæs Sogns Spare- Og Lånekasse,"Røsnæsvej 349, 4400 Kalundborg",+4559509256,www.refsnaes-sparekasse.dk
 0545,Sparekassen Sjælland,Frederiksberg,,Sparekassen Sjælland Frederiksberg,"Smallegade 4- 6, 2000 Frederiksberg",+4538191520,alm.spks.dk
-0547,Dragsholm Sparekasse,Asnæs,,"Dragsholm Sparekasse Asnæs Afdeling
-","Asnæs Centret 23, 4550 Asnæs",+4559652626 ,www.dragsholmsparekasse.dk
+0547,Dragsholm Sparekasse,Asnæs,,Dragsholm Sparekasse Asnæs Afdeling,"Asnæs Centret 23, 4550 Asnæs",+4559652626,www.dragsholmsparekasse.dk
 0548,Danske Bank,Nykøbing Sjælland,,Danske Bank Nykøbing Sjælland  Afdeling,"Algade 21, 4500 Nykøbing Sjælland",+4545123000,www.danskebank.dk
 0561,FS Bank,(Closed),,,,,www.fsbank.dk
 0562,Danske Bank,Næstved,,Danske Bank Næstved Afdeling,"Hjultorv 18, 4700 Næstved",+4545120260,www.danskebank.dk
@@ -240,7 +238,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0571,Danske Bank,Korsør,,Danske Bank Korsør Afdeling,"Caspar Brands Plads 9, 4220 Korsør",+4545122740,www.danskebank.dk
 0573,Danske Bank,Storgade,,Danske Bank Sorø Afdeling,"Storgade 14A, 4180 Sorø",+4545122110,www.danskebank.dk
 0575,Danske Bank,Haslev,,Danske Bank Haslev Afdeling,"Jernbanegade 17, 4690 Haslev",+4545123760,www.danskebank.dk
-0577,Sparekassen Sjælland ,Slagelse,"Max Bank, former Skælskør Bank ,former Flakkebjerg og Omegns Sparekasse",Sparekassen Sjælland Slagelse,"Schweizerpladsen 6, 4200 Slagelse ",+4558562424,alm.spks.dk
+0577,Sparekassen Sjælland ,Slagelse,"Max Bank, former Skælskør Bank ,former Flakkebjerg og Omegns Sparekasse",Sparekassen Sjælland Slagelse,"Schweizerpladsen 6, 4200 Slagelse",+4558562424,alm.spks.dk
 0579,Den Lille Bikube,Fuglebjerg,,Den Lille Bikube Fuglebjerg,"Byagervej 6 C, 4250 Fuglebjerg",+4555454807,www.denlillebikube.dk
 0580,Sparekassen Sjælland,Slagelse,,Sparekassen Sjælland Slagelse,"Schweizerpladsen 6, 4200 Slagelse",+4558562424,alm.spks.dk
 0581,Sydbank A/S ,Sorø,"Trelleborg Bank ,former Slagelse, former Munke-Bjergby Bromme Sognes Sparekasse",Sydbank Sorø Afdeling,"Storgade 28, 4180 Sorø",+4574374840,www.sydbank.dk
@@ -263,21 +261,20 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0620,Danske Bank,Kontoservice,,,,,www.danskebank.dk
 0622,Danske Bank,Vordingborg,,Danske Bank Vordingborg Afdeling,"Algade 61, 4760 Vordingborg",+4545124990,www.danskebank.dk
 0624,Danske Bank,Faxe,,Danske Bank Fakse Afdeling,"Kirketorvet 1, 4640 Fakse",+4545121970,www.danskebank.dk
-0629,Danske Bank,Køge ,Store Heddinge,Danske Bank Køge Afdeling,"Brogade 3, 4600 Køge",+4545120800,www.danskebank.dk
+0629,Danske Bank,Køge,Store Heddinge,Danske Bank Køge Afdeling,"Brogade 3, 4600 Køge",+4545120800,www.danskebank.dk
 0630,Danske Bank,Kontoservice,,,,,www.danskebank.dk
 0631,Møns Bank ,Kongsted,"Kongsted Sparekasse, closed 2013)",Møns Bank Kongsted Afdeling,"Dyssevej 3, Kongsted, 4683 Rønnede",+4554886100,www.moensbank.dk
 0634,Snesere Sogns Spare- og Laanekasse,Closed,,,,,
 0637,Nordea,Rønne Center,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
-0644,Møns Bank,Fanefjord ,Fanefjord Sparekasse,Møns Bank Fanefjord Afdeling,"Hjørnet 2, 4792 Askeby",+4555817116,www.moensbank.dk
+0644,Møns Bank,Fanefjord,Fanefjord Sparekasse,Møns Bank Fanefjord Afdeling,"Hjørnet 2, 4792 Askeby",+4555817116,www.moensbank.dk
 0646,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
 0647,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
-0648,Nordea,Rønne ,Hasle,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
-0649,Nordea,Rønne ,Allinge,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
-0650,Nordea,Rønne,,"Nordea Rønne Afdeling
-","Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
+0648,Nordea,Rønne,Hasle,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
+0649,Nordea,Rønne,Allinge,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
+0650,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 0651,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 0653,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
-0654,Nordea,Rønne ,Nexø,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
+0654,Nordea,Rønne,Nexø,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
 0655,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 0656,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 0657,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
@@ -285,20 +282,18 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0659,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
 0660,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 0661,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
-0662,Nordea,"Rønne
-",,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
+0662,Nordea,Rønne,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570333333,www.nordea.dk
 0670,Nordea,Nykøbing F.,,Nordea Nykøbing Falster Afdeling,"Slotsgade 1-3., 4800 Nykøbing F.",+4570333333,www.nordea.dk
 0672,Nordea,Nykøbing F.,,Nordea Nykøbing Falster Afdeling,"Slotsgade 1-3., 4800 Nykøbing F.",+4570333333,www.nordea.dk
 0673,Nordea,Nykøbing F.,,Nordea Nykøbing Falster Afdeling,"Slotsgade 1-3., 4800 Nykøbing F.",+4570333333,www.nordea.dk
 0674,Nordea,Nykøbing Sj.,,Nordea Nykøbing Sj. Afdeling,"Algade 20, 4500 Nykøbing Sj.",+4570333333,www.nordea.dk
 0675,Nordea,Nykøbing F.,,Nordea Nykøbing Falster Afdeling,"Slotsgade 1-3., 4800 Nykøbing F.",+4570333333,www.nordea.dk
-0676,Nordea,Nykøbing F. ,Nysted,Nordea Nykøbing Falster Afdeling,"Slotsgade 1-3., 4800 Nykøbing F.",+4570333333,www.nordea.dk
+0676,Nordea,Nykøbing F.,Nysted,Nordea Nykøbing Falster Afdeling,"Slotsgade 1-3., 4800 Nykøbing F.",+4570333333,www.nordea.dk
 0677,Nordea,Sakskøbing,,Nordea Sakskøbing Afdeling,"Søndergade 22, 4990 Sakskøbing",+4570333333,www.nordea.dk
 0678,Nordea,Nørre Alslev,,Nordea Nørre Alslev Afdeling,"Nørre Alslev Langgade 11, 4840 Nørre Alslev",+4570333333,www.nordea.dk
 0679,Nordea,Nørre Alslev,,Nordea Nørre Alslev Afdeling,"Nørre Alslev Langgade 11, 4840 Nørre Alslev",+4570333333,www.nordea.dk
 0680,Nordea,Nørre Aslev,,Nordea Nørre Alslev Afdeling,"Nørre Alslev Langgade 11, 4840 Nørre Alslev",+4570333333,www.nordea.dk
-0681,Jyske Bank,Silkeborg,,Jyske Bank Silkeborg,"Vestergade 8-10, 8600 Silkeborg","+4589898700
-",www.jyskebank.dk
+0681,Jyske Bank,Silkeborg,,Jyske Bank Silkeborg,"Vestergade 8-10, 8600 Silkeborg",+4589898700,www.jyskebank.dk
 0682,Jyske Bank,Maribo,,Jyske Bank Maribo,"Østergade 2, 4930 Maribo",+4589891560,www.jyskebank.dk
 0683,Jyske Bank,Roskilde,,Jyske Bank Roskilde,"Algade 24, 4000 Roskilde",+4589891200,www.jyskebank.dk
 0684,Jyske Bank,Nakskov,,Jyske Bank Nakskov,"Axeltorv 2, 4900 Nakskov",+4589890900,www.jyskebank.dk
@@ -330,8 +325,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0750,Nordea,Vestre Stationsvej,,Nordea Odense Afdeling,"Vestre Stationsvej 7, 5100 Odense C",+4570333333,www.nordea.dk
 0751,FS Bank,(Closed),,,,,www.fsbank.dk
 0755,Middelfart Sparekasse,Middelfart,,Middelfart Sparekasse Middelfart,"Havnegade 21, 5500 Middelfart",+4564222222,www.midspar.dk
-0756,Middelfart Sparekasse,Strib,,Middelfart Sparekasse Strib,"Vestergade 34, Strib, 5500 Middelfart
-",+4564401750,www.midspar.dk
+0756,Middelfart Sparekasse,Strib,,Middelfart Sparekasse Strib,"Vestergade 34, Strib, 5500 Middelfart",+4564401750,www.midspar.dk
 0757,Middelfart Sparekasse,Fredericia,,Middelfart Sparekasse Fredericia,"Prinsessegade 95, 7000 Fredericia",+4575930800,www.midspar.dk
 0758,Middelfart Sparekasse,Vejle,,Middelfart Sparekasse Vejle,"Vestre Engvej 1A, 7100 Vejle",+4575836666,www.midspar.dk
 0759,Middelfart Sparekasse,Kolding,,Middelfart Sparekasse Kolding,"Buen 7, 6000 Kolding",+4575538900,www.midspar.dk
@@ -347,8 +341,8 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0778,Nordea,Middelfart,,Nordea Middelfart Afdeling,"Algade 83, 5500 Middelfart",+4570333333,www.nordea.dk
 0779,Nordea,Middelfart,,Nordea Middelfart Afdeling,"Algade 83, 5500 Middelfart",+4570333333,www.nordea.dk
 0784,Nordea,Kolding,,Nordea Kolding Afdeling,"Kolding Åpark 2, 6000 Kolding",+4570333333,www.nordea.dk
-0785,Nordea,Vejle ,Fiona Bank,Nordea Vejle,"Dæmningen 68, 7100 Vejle",+4570333333,www.nordea.dk
-0787,Nordea,Middelfart ,Fiona Bank,Nordea Middelfart Afdeling,"Algade 83, 5500 Middelfart",+4570333333,www.nordea.dk
+0785,Nordea,Vejle,Fiona Bank,Nordea Vejle,"Dæmningen 68, 7100 Vejle",+4570333333,www.nordea.dk
+0787,Nordea,Middelfart,Fiona Bank,Nordea Middelfart Afdeling,"Algade 83, 5500 Middelfart",+4570333333,www.nordea.dk
 0788,Nordea,Fredericia,,Nordea Fredericia Afdeling,"Gothersgade 5, 7000 Fredericia",+4570333333,www.nordea.dk
 0790,Nordea,Tarup,,Nordea Tarup Afdeling,"Rugårdsvej 191, 5210 Odense Nv",+4570333333,www.nordea.dk
 0791,Nordea,Hjallesevej,,Nordea Hjallesevej Afdeling,"Hjallesevej 126, 5230 Odense",+4570333333,www.nordea.dk
@@ -364,15 +358,11 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0814,Fynske Bank ,Nyborg,Svendborg Sparekasse,Fynske Bank Nyborg,"Nørregade 19, 5800 Nyborg",+4565311111,www.svendborgsparekasse.dk
 0815,Fynske Bank ,Svendborg,Svendborg Sparekasse,Fynske Bank Svendborg,"Centrumpladsen 19, 5700 Svendborg",+4562213322,www.svendborgsparekasse.dk
 0816,Fynske Bank ,Sørup,Svendborg Sparekasse,Fynske Bank Sørup,"Mølmarksvej 173, 5700 Svendborg",+4562220650,www.svendborgsparekasse.dk
-0817,Fynske Bank ,Hesselager,Svendborg Sparekasse,"Fynske Bank Hesselager
-","Langgade 20, 5874 Hesselager",+4562251322,www.svendborgsparekasse.dk
+0817,Fynske Bank ,Hesselager,Svendborg Sparekasse,Fynske Bank Hesselager,"Langgade 20, 5874 Hesselager",+4562251322,www.svendborgsparekasse.dk
 0818,Fynske Bank ,Sørup,Svendborg Sparekasse,Fynske Bank Sørup,"Mølmarksvej 173, 5700 Svendborg",+4562220650,www.svendborgsparekasse.dk
-0819,Fynske Bank ,Skårup,Svendborg Sparekasse,"Fynske Bank Skårup
-","Skårup Stationsvej 16, 5881 Skårup",+4562231010,www.svendborgsparekasse.dk
-0820,Fynske Bank ,Svendborg,Svendborg Sparekasse,"Fynske Bank Nyborg
-","Centrumpladsen 19, 5700 Svendborg
-",+4562213322,www.svendborgsparekasse.dk
-0821,Nordea,Marstal ,"Ærøskøbing, closed 2013",Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
+0819,Fynske Bank ,Skårup,Svendborg Sparekasse,Fynske Bank Skårup,"Skårup Stationsvej 16, 5881 Skårup",+4562231010,www.svendborgsparekasse.dk
+0820,Fynske Bank ,Svendborg,Svendborg Sparekasse,Fynske Bank Nyborg,"Centrumpladsen 19, 5700 Svendborg",+4562213322,www.svendborgsparekasse.dk
+0821,Nordea,Marstal,"Ærøskøbing, closed 2013",Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
 0823,Nordea,Marstal,,Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
 0824,FS Bank,(Closed),,,,,www.fsbank.dk
 0825,Nordea,Rudkøbing,,Nordea Rudkøbing Afdeling,"Ørstedsgade 6, 5900 Rudkøbing",+4570333333,www.nordea.dk
@@ -390,57 +380,36 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0841,Nordea,Nyborg,,Nordea Nyborg Afdeling,"Baggersgade 1- 5, 5800 Nyborg",+4570333333,www.nordea.dk
 0842,Nordea,Nyborg,,Nordea Nyborg Afdeling,"Baggersgade 1- 5, 5800 Nyborg",+4570333333,www.nordea.dk
 0843,Nordea,Nyborg,,Nordea Nyborg Afdeling,"Baggersgade 1- 5, 5800 Nyborg",+4570333333,www.nordea.dk
-0844,Fynske Bank ,"Svendborg
-",Svendborg Sparekasse,"Fynske Bank Svendborg
-","Centrumpladsen 19, 5700 Svendborg
-",,www.svendborgsparekasse.dk
+0844,Fynske Bank ,Svendborg,Svendborg Sparekasse,Fynske Bank Svendborg,"Centrumpladsen 19, 5700 Svendborg",,www.svendborgsparekasse.dk
 0847,Rise Spare- og Lånekasse,Ærøskøbing,,Rise Spare- og Lånekasse Ærøskøbing,"St. Rise Landevej 10, 5970 Ærøskøbing",+4562521408,www.risespar.dk
 0850,Nordea,Faaborg,,Nordea Faaborg Afdeling,"Østergade 16, 5600 Faaborg",+4570333333,www.nordea.dk
 0851,Nordea,Faaborg,,Nordea Faaborg Afdeling,"Østergade 16, 5600 Faaborg",+4570333333,www.nordea.dk
 0852,Nordea,Ollerup,,Nordea Ollerup Afdeling,"Ollerup Bytorv 2, Ollerup, 5762 Vester Skerninge",+4570333333,www.nordea.dk
 0853,Nordea,Ollerup,,Nordea Ollerup Afdeling,"Ollerup Bytorv 2, Ollerup, 5762 Vester Skerninge",+4570333333,www.nordea.dk
 0854,Nordea,Marstal,,Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
-0855,Nordea,"Marstal
-",,Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
+0855,Nordea,Marstal,,Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
 0860,Fynske Bank ,Rudkøbing,Svendborg Sparekasse,Fynske Sparekassen Rudkøbing,"Østerport 2, 5900 Rudkøbing",+4562511670,www.svendborgsparekasse.dk
 0861,Fynske Bank ,Svendborg,Svendborg Sparekasse,Fynske Bank Svendborg,"Centrumpladsen 19, 5700 Svendborg",+4562213322,www.svendborgsparekasse.dk
 0862,Fynske Bank ,Sørup,Svendborg Sparekasse,Fynske Bank Sørup,"Mølmarksvej 173, 5700 Svendborg",+4562220650,www.svendborgsparekasse.dk
 0863,Fynske Bank ,Svendborg,Svendborg Sparekasse,Fynske Bank Svendborg,"Centrumpladsen 19, 5700 Svendborg",+4562213322,www.svendborgsparekasse.dk
-0864,Fynske Bank ,"Svendborg
-",Svendborg Sparekasse,"Fynske Bank Svendborg
-","Centrumpladsen 19, 5700 Svendborg
-","+4562213322
-",www.svendborgsparekasse.dk
-0865,Fynske Bank ,"Svendborg
-",Svendborg Sparekasse,"Fynske Bank Svendborg
-","Centrumpladsen 19, 5700 Svendborg
-","+4562213322
-",www.svendborgsparekasse.dk
+0864,Fynske Bank ,Svendborg,Svendborg Sparekasse,Fynske Bank Svendborg,"Centrumpladsen 19, 5700 Svendborg",+4562213322,www.svendborgsparekasse.dk
+0865,Fynske Bank ,Svendborg,Svendborg Sparekasse,Fynske Bank Svendborg,"Centrumpladsen 19, 5700 Svendborg",+4562213322,www.svendborgsparekasse.dk
 0866,Sparekassen Kronjylland,Stoholm reg.nr. 9294 ifølge hjemmeside,,Sparekassen Kronjylland Stoholm,"Vestergade 3, 7850 Stoholm",+4597541644,www.sparkron.dk
 0867,Den Jyske Sparekasse,Give,,Den Jyske Sparekasse Give,"Nytorv 10, 7323 Give",+4576701199,www.djs.dk
-0868,Den Jyske Sparekasse,Grindsted,,Den Jyske Sparekasse Grindsted,"Borgergade 3, 7200 Grindsted ",+4575320811 ,www.djs.dk
-0870,Den Jyske Sparekasse,Ikast,,Den Jyske Sparekasse Ikast,"Østergade 21, 7430 Ikast",+4597155255 ,www.djs.dk
+0868,Den Jyske Sparekasse,Grindsted,,Den Jyske Sparekasse Grindsted,"Borgergade 3, 7200 Grindsted",+4575320811,www.djs.dk
+0870,Den Jyske Sparekasse,Ikast,,Den Jyske Sparekasse Ikast,"Østergade 21, 7430 Ikast",+4597155255,www.djs.dk
 0871,Den Jyske Sparekasse,Ikast,,Den Jyske Sparekasse Ikast,"Østergade 21, 7430 Ikast",+4597155255,www.djs.dk
-0872,Den Jyske Sparekasse,Esbjerg,,Den Jyske Sparekasse Esbjerg,"Torvegade 8, 6700 Esbjerg",+4575452277 ,www.djs.dk
-0873,Den Jyske Sparekasse,Grindsted,,Den Jyske Sparekasse Grindsted,"Borgergade 3, 7200 Grindsted",+4575320811 ,www.djs.dk
+0872,Den Jyske Sparekasse,Esbjerg,,Den Jyske Sparekasse Esbjerg,"Torvegade 8, 6700 Esbjerg",+4575452277,www.djs.dk
+0873,Den Jyske Sparekasse,Grindsted,,Den Jyske Sparekasse Grindsted,"Borgergade 3, 7200 Grindsted",+4575320811,www.djs.dk
 0875,Ingeniørernes Pensionsbank,,,,,,
 0877,Middelfart Sparekasse,Uldum,,Middelfart Sparekasse Uldum,"Søndergade 17, 7171 Uldum",+4575679211,www.midspar.dk
 0878,Middelfart Sparekasse,Ødsted,,Middelfart Sparekasse Ødsted,"Ribevej 50 A, Ødsted, 7100 Vejle",+4575864543,www.midspar.dk
 0880,Handelsbanken,København V,,Handelsbanken København,"Havneholmen 29, 1561 København V",+4546791200,www.handelsbanken.dk
 0881,Handelsbanken,København V,,Handelsbanken København,"Havneholmen 29, 1561 København V",+4546791200,www.handelsbanken.dk
-0883,Handelsbanken,"København V
-",,Handelsbanken København,"Havneholmen 29, 1561 København V",+4546791200,www.handelsbanken.dk
-0884,Handelsbanken,København V,,Handelsbanken København,"Havneholmen 29, 1561 København V
-","+4546791200
-",www.handelsbanken.dk
-0888,Handelsbanken,"København V
-",,Handelsbanken København,"Havneholmen 29, 1561 København V
-","+4546791200
-",www.handelsbanken.dk
-0889,Handelsbanken,"København V
-",,Handelsbanken København,"Havneholmen 29, 1561 København V
-","+4546791200
-",www.handelsbanken.dk
+0883,Handelsbanken,København V,,Handelsbanken København,"Havneholmen 29, 1561 København V",+4546791200,www.handelsbanken.dk
+0884,Handelsbanken,København V,,Handelsbanken København,"Havneholmen 29, 1561 København V",+4546791200,www.handelsbanken.dk
+0888,Handelsbanken,København V,,Handelsbanken København,"Havneholmen 29, 1561 København V",+4546791200,www.handelsbanken.dk
+0889,Handelsbanken,København V,,Handelsbanken København,"Havneholmen 29, 1561 København V",+4546791200,www.handelsbanken.dk
 0890,Handelsbanken,København City,,Handelsbanken København K,"Amaliegade 3, 1256 København K",+4544563400,www.handelsbanken.dk
 0891,Handelsbanken,Århus Syd,,Handelsbanken Århus Syd,"Finderupparken, Finderupvej 5, 8000 Aarhus C",+4544565250,www.handelsbanken.dk
 0892,Handelsbanken,København Vest,,Handelsbanken København Vest,"Park Allé 290, 2605 Brøndby",+4544564500,www.handelsbanken.dk
@@ -463,9 +432,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0913,Danske Bank,Aarup,,Danske Bank Aarup Afdeling,"Bredgade 37, 5560 Aarup",+4545125510,www.danskebank.dk
 0914,Danske Bank,Dalum,,Danske Bank Dalum Afdeling,"Faaborgvej 22- 24, 5250 Odense SV",+4545124340,www.danskebank.dk
 0917,Danske Bank,Ringe,,Danske Bank Ringe Afdeling,"Algade 15, 5750 Ringe",+4545125090,www.danskebank.dk
-0918,Danske Bank,Ringe ,Sdr. Nærå,"Danske Bank Ringe Afdeling
-","Algade 15, 5750 Ringe","+4545125090
-",www.danskebank.dk
+0918,Danske Bank,Ringe,Sdr. Nærå,Danske Bank Ringe Afdeling,"Algade 15, 5750 Ringe",+4545125090,www.danskebank.dk
 0922,Danske Bank,Aarup,,Danske Bank Aarup Afdeling,"Bredgade 37, 5560 Aarup",+4545125510,www.danskebank.dk
 0924,Danske Bank,Bogense,,Danske Bank Bogense Afdeling,"Adelgade 77, 5400 Bogense",+4545123650,www.danskebank.dk
 0925,Danske Bank,Hunderup,,Danske Bank Hunderup Afdeling,"Munkerisvej 1, 5230 Odense M",+4545122080,www.danskebank.dk
@@ -476,8 +443,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0940,Danske Bank,Søndersø,,Danske Bank Søndersø Afdeling,"Toftekær 1, 5471 Søndersø",+4545120050,www.danskebank.dk
 0941,Danske Bank,Dalum,,Danske Bank Dalum Afdeling,"Faaborgvej 22- 24, 5250 Odense SV",+4545124340,www.danskebank.dk
 0942,Danske Bank,Ringe,,Danske Bank Ringe Afdeling,"Algade 15, 5750 Ringe",+4545125090,www.danskebank.dk
-0948,Danske Bank,Svendborg ,Gudme,"Danske Bank Svendborg Afdeling
-","Møllergade 2, 5700 Svendborg",+4545125080,www.danskebank.dk
+0948,Danske Bank,Svendborg,Gudme,Danske Bank Svendborg Afdeling,"Møllergade 2, 5700 Svendborg",+4545125080,www.danskebank.dk
 0952,Danske Bank,Svendborg Bycenter,,Danske Bank Svendborg Afdeling,"Møllergade 2, 5700 Svendborg",+4545125080,www.danskebank.dk
 0954,Danske Bank,Svendborg Bycenter,,Danske Bank Svendborg Afdeling,"Møllergade 2, 5700 Svendborg",+4545125080,www.danskebank.dk
 0964,Danske Bank,Assens,,Danske Bank Assens Afdeling,"Østergade 1, 5610 Assens",+4545125070,www.danskebank.dk
@@ -485,78 +451,46 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 0972,Danske Bank,Bogense,,Danske Bank Bogense Afdeling,"Adelgade 77, 5400 Bogense",+4545123650,www.danskebank.dk
 0974,Danske Bank,Jylland Midt,,Danske Bank Finascenter Jylland Midt,"Havneparken 3, 7100 Vejle",+4545126300,www.danskebank.dk
 0975,Danske Bank,Kochsgade,,Danske Bank Kochsgade Afdeling,"Kochsgade 139, 5000 Odense C",+4545120690,www.danskebank.dk
-0976,Danske Bank,Faaborg ,Rikkeminde,Danske Bank Faaborg Afdeling,"Vestergade 4, 5600 Faaborg",+4545120920,www.danskebank.dk
-0977,Danske Bank,Faaborg ,Rikkeminde,Danske Bank Faaborg Afdeling,"Vestergade 4, 5600 Faaborg
-",+4545120920,www.danskebank.dk
+0976,Danske Bank,Faaborg,Rikkeminde,Danske Bank Faaborg Afdeling,"Vestergade 4, 5600 Faaborg",+4545120920,www.danskebank.dk
+0977,Danske Bank,Faaborg,Rikkeminde,Danske Bank Faaborg Afdeling,"Vestergade 4, 5600 Faaborg",+4545120920,www.danskebank.dk
 0978,Danske Bank,Tarup,,Danske Bank Tarup Afdeling,"Tarup Center, Rugvang 36- 38, 5210 Odense NV",+4545122500,www.danskebank.dk
 0979,Danske Bank,Kochsgade,,Danske Bank Kochsgade Afdeling,"Kochsgade 139, 5000 Odense C",+4545120690,www.danskebank.dk
 0980,Danske Bank,Dalum,,Danske Bank Dalum Afdeling,"Faaborgvej 22- 24, 5250 Odense SV",+4545124340,www.danskebank.dk
 0981,Danske Bank,Middelfart Øst,,Danske Bank Middelfart Afdeling,"Algade 35, 5500 Middelfart",+4545125060,www.danskebank.dk
 0982,Danske Bank,Middelfart Øst,,Danske Bank Middelfart Afdeling,"Algade 35, 5500 Middelfart",+4545125060,www.danskebank.dk
-0983,Danske Bank,Faaborg ,Rikkeminde,"Danske Bank Faaborg Afdeling
-","Vestergade 4, 5600 Faaborg
-","+4545120920
-",www.danskebank.dk
+0983,Danske Bank,Faaborg,Rikkeminde,Danske Bank Faaborg Afdeling,"Vestergade 4, 5600 Faaborg",+4545120920,www.danskebank.dk
 0985,Danske Bank,Koncernregnskab,,Danske Bank Lyngby Afdeling,"Lyngby Hovedgade 25, 2800 Lyngby",+4545124800,www.danskebank.dk
-0987,Danske Bank,Erhvervscenter Fyn,,Danske Bank Erhvervscenter Fyn,"Flakhaven 1, Postbox 1314, 5100	Odense C","+4545120810
-",www.danskebank.dk
-0988,Danske Bank,Erhvervscenter Fyn,,Danske Bank Erhvervscenter Fyn,"Flakhaven 1, Postbox 1314, 5100	Odense C","+4545120810
-",www.danskebank.dk
-0989,Danske Bank,Jylland Syd,,Danske Bank Erhvervscenter Sønderjylland,"Perlegade 24-26, ​6400 Sønderborg",+45​45125280	,www.danskebank.dk
+0987,Danske Bank,Erhvervscenter Fyn,,Danske Bank Erhvervscenter Fyn,"Flakhaven 1, Postbox 1314, 5100	Odense C",+4545120810,www.danskebank.dk
+0988,Danske Bank,Erhvervscenter Fyn,,Danske Bank Erhvervscenter Fyn,"Flakhaven 1, Postbox 1314, 5100	Odense C",+4545120810,www.danskebank.dk
+0989,Danske Bank,Jylland Syd,,Danske Bank Erhvervscenter Sønderjylland,"Perlegade 24-26, ​6400 Sønderborg",+45​45125280,www.danskebank.dk
 0991,Danske Bank,Fyn,,Danske Bank Odense Afdeling,"Flakhaven 1, 5100 Odense C",+4545120810,www.danskebank.dk
-0993,Danske Bank,Sjælland Syd,,Danske Bank Sjælland Syd,"Hjultorv 18, 4700 Næstved","+4545120260
-",www.danskebank.dk
+0993,Danske Bank,Sjælland Syd,,Danske Bank Sjælland Syd,"Hjultorv 18, 4700 Næstved",+4545120260,www.danskebank.dk
 0994,Danske Bank,Haderslev,,Danske Bank Haderslev Afdeling,"Gravene 2, 6100 Haderslev",+4545125140,www.danskebank.dk
 0996,Danske Bank,Odense,,Danske Bank Odense Afdeling,"Flakhaven 1, 5100 Odense C",+4545120810,www.danskebank.dk
 0998,Danske Bank,Storkøbenhavn,,Danske Bank Storkøbenhavn,"Holmens Kanal 2, 1092 København K",+4545126000,www.danskebank.dk
 0999,Danske Bank,"Holmens Kanal, Boligkredit",,Danske Bank Holmens Kanal Afdeling,"Holmens Kanal 2, 1092 København K",+4545126000,www.danskebank.dk
 1001,Nationalbanken,København K,,Nationalbanken København K,"Havnegade 5, 1093 København K",+4533636363,www.nationalbanken.dk
-1003,Nationalbanken,"Finansstyrelsen, boligsparekontr.",,"Nationalbanken København K
-","Havnegade 5, 1093 København K
-","+4533636363
-",www.nationalbanken.dk
-1005,Nationalbanken,"København K
-",,"Nationalbanken København K
-","Havnegade 5, 1093 København K
-","+4533636363
-",www.nationalbanken.dk
-1011,Nationalbanken,"Finansstyrelsen, uddannelsesopsparing",,"Nationalbanken København K
-","Havnegade 5, 1093 København K
-","+4533636363
-",www.nationalbanken.dk
-1111,Nationalbanken,Personalebanken,,"Nationalbanken København K
-","Havnegade 5, 1093 København K
-","+4533636363
-",www.nationalbanken.dk
-1171,Danske Bank,Posthus Service,,"Danske Bank Posthus Service
-","Holmens Kanal 2, 1060 København K",+4533440000,www.danskebank.dk
-1172,Danske Bank,Handelsfinans,,Danske Bank Handelsfinas,"Holmens Kanal 2, 1060 København K
-","+4533440000
-",www.danskebank.dk
+1003,Nationalbanken,"Finansstyrelsen, boligsparekontr.",,Nationalbanken København K,"Havnegade 5, 1093 København K",+4533636363,www.nationalbanken.dk
+1005,Nationalbanken,København K,,Nationalbanken København K,"Havnegade 5, 1093 København K",+4533636363,www.nationalbanken.dk
+1011,Nationalbanken,"Finansstyrelsen, uddannelsesopsparing",,Nationalbanken København K,"Havnegade 5, 1093 København K",+4533636363,www.nationalbanken.dk
+1111,Nationalbanken,Personalebanken,,Nationalbanken København K,"Havnegade 5, 1093 København K",+4533636363,www.nationalbanken.dk
+1171,Danske Bank,Posthus Service,,Danske Bank Posthus Service,"Holmens Kanal 2, 1060 København K",+4533440000,www.danskebank.dk
+1172,Danske Bank,Handelsfinans,,Danske Bank Handelsfinas,"Holmens Kanal 2, 1060 København K",+4533440000,www.danskebank.dk
 1187,Saxo Privatbank,Netbank,,Saxo privatbank,"Philip Heymans Alle 15, 2900 Hellerup",+4533384590,dk.saxobank.com
-1199,Danske Bank,København K,,Danske Bank København K,"Holmens Kanal 2, 1060 København K
-","+4533440000
-",www.danskebank.dk
+1199,Danske Bank,København K,,Danske Bank København K,"Holmens Kanal 2, 1060 København K",+4533440000,www.danskebank.dk
 1202,Nordea,Espergærde,,Nordea Espergærde Afdeling,"Øster Torv 4, 3060 Espergærde",+4570333333,www.nordea.dk
 1204,Nordea,Gilleleje,,Nordea Gilleleje Afdeling,"Vesterbrogade 18, 3250 Gilleleje",+4570333333,www.nordea.dk
-1205,Nordea,City,,Nordea Kongens Nytorv Afdeling,"Kongens Nytorv 28, 1050 København K","+4570333333
-",www.nordea.dk
-1206,Nordea,København K,,Nordea Kongens København K Afdeling,"Christiansbro, Strandgade 3, DK-0900 København K","+4570333333
-",www.nordea.dk
+1205,Nordea,City,,Nordea Kongens Nytorv Afdeling,"Kongens Nytorv 28, 1050 København K",+4570333333,www.nordea.dk
+1206,Nordea,København K,,Nordea Kongens København K Afdeling,"Christiansbro, Strandgade 3, DK-0900 København K",+4570333333,www.nordea.dk
 1207,Nordea,Hillerød/Helsingør Erhverv,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
-1225,Nordea,Dragsholm Sparekasse,,,,"+4570333333
-",www.nordea.dk
+1225,Nordea,Dragsholm Sparekasse,,,,+4570333333,www.nordea.dk
 1289,Unknown,,,,,,
 1307,Nordea,Skibby,,Nordea Skibby Afdeling,"Hovedgaden 48, 4050 Skibby",+4570333333,www.nordea.dk
 1308,Nordea,Hillerød-Helsingør Produktion,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1309,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1310,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1315,Nordea,Birkerød,,Nordea Birkerød Afdeling,"Hovedgaden 23, 3460 Birkerød",+4570333333,www.nordea.dk
-1316,Nordea,"Birkerød
-",,"Nordea Birkerød Afdeling
-","Hovedgaden 23, 3460 Birkerød
-","+4570333333
-",www.nordea.dk
+1316,Nordea,Birkerød,,Nordea Birkerød Afdeling,"Hovedgaden 23, 3460 Birkerød",+4570333333,www.nordea.dk
 1317,Nordea,Birkerød,,Nordea Birkerød Afdeling,"Hovedgaden 23, 3460 Birkerød",+4570333333,www.nordea.dk
 1319,Nordea,Farum,,Nordea Farum Afdeling,"Farum Hovedgade 14, 3520 Farum",+4570333333,www.nordea.dk
 1320,Nordea,Farum,,Nordea Farum Afdeling,"Farum Hovedgade 14, 3520 Farum",+4570333333,www.nordea.dk
@@ -564,10 +498,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1322,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1323,Nordea,Stenløse,,Nordea Stenløse Afdeling,"Egedal Centret 21, 3660 Stenløse",+4570333333,www.nordea.dk
 1324,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
-1325,Nordea,"Hillerød
-",,"Nordea Hillerød Afdeling
-","Slotsgade 44, 3400 Hillerød","+4570333333
-",www.nordea.dk
+1325,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1326,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1328,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1329,Nordea,Hørsholm,,Nordea Hørsholm Afdeling,"Hovedgaden 20, 2970 Hørsholm",+4570333333,www.nordea.dk
@@ -584,30 +515,13 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1347,Nordea,Skibby,,Nordea Skibby Afdeling,"Hovedgaden 48, 4050 Skibby",+4570333333,www.nordea.dk
 1348,Nordea,Stenløse,,Nordea Stenløse Afdeling,"Egedal Centret 21, 3660 Stenløse",+4570333333,www.nordea.dk
 1349,Nordea,Stenløse,,Nordea Stenløse Afdeling,"Egedal Centret 21, 3660 Stenløse",+4570333333,www.nordea.dk
-1350,Nordea,Frederiksværk ,Hundested,"Nordea Frederiksværk Afdeling
-","Torvet 37, 3300 Frederiksværk
-","+4570333333
-",www.nordea.dk
-1352,Nordea,Frederiksværk ,Hundested,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk","+4570333333
-",www.nordea.dk
-1353,Nordea,Frederiksværk,,"Nordea Frederiksværk Afdeling
-","Torvet 37, 3300 Frederiksværk
-","+4570333333
-",www.nordea.dk
-1355,Nordea,Frederiksværk,,"Nordea Frederiksværk Afdeling
-","Torvet 37, 3300 Frederiksværk
-","+4570333333
-",www.nordea.dk
-1360,Nordea,Frederiksværk,,"Nordea Frederiksværk Afdeling
-","Torvet 37, 3300 Frederiksværk
-","+4570333333
-",www.nordea.dk
+1350,Nordea,Frederiksværk,Hundested,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk",+4570333333,www.nordea.dk
+1352,Nordea,Frederiksværk,Hundested,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk",+4570333333,www.nordea.dk
+1353,Nordea,Frederiksværk,,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk",+4570333333,www.nordea.dk
+1355,Nordea,Frederiksværk,,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk",+4570333333,www.nordea.dk
+1360,Nordea,Frederiksværk,,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk",+4570333333,www.nordea.dk
 1362,Nordea,Helsinge,,Nordea Søborg Afdeling,"Søborg Hovedgade 112, 2860 Søborg",+4570333333,www.nordea.dk
-1364,Nordea,"Helsinge
-",,"Nordea Søborg Afdeling
-","Søborg Hovedgade 112, 2860 Søborg
-","+4570333333
-",www.nordea.dk
+1364,Nordea,Helsinge,,Nordea Søborg Afdeling,"Søborg Hovedgade 112, 2860 Søborg",+4570333333,www.nordea.dk
 1400,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1401,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 1402,Nordea,Helsingør,,Nordea Helsingør Afdeling,"Stengade 45, 3000 Helsingør",+4570333333,www.nordea.dk
@@ -619,11 +533,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1418,Nordea,Greve,,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570333333,www.nordea.dk
 1420,Nordea,Vallensbæk,,Nordea Vallensbæk Afdeling,"Vallensbæk Stationstorv 33, 2665 Vallensbæk Strand",+4570333333,www.nordea.dk
 1421,Nordea,Vallensbæk,,Nordea Vallensbæk Afdeling,"Vallensbæk Stationstorv 33, 2665 Vallensbæk Strand",+4570333333,www.nordea.dk
-1422,Nordea,"Greve
-",,"Nordea Greve Afdeling
-","Centerholmen 16, 2670 Greve
-","+4570333333
-",www.nordea.dk
+1422,Nordea,Greve,,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570333333,www.nordea.dk
 1423,Nordea,Greve,,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570333333,www.nordea.dk
 1424,Nordea,Greve,,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570333333,www.nordea.dk
 1425,Nordea,Greve,,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570333333,www.nordea.dk
@@ -632,26 +542,16 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1429,Nordea,Borup,,Nordea Borup Afdeling,"Hovedgaden 58, 4140 Borup",+4570333333,www.nordea.dk
 1430,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 1432,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
-1433,Nordea,Køge,,"Nordea Køge Afdeling
-","Torvet 14, 4600 Køge
-","+4570333333
-",www.nordea.dk
+1433,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 1434,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
-1436,Nordea,Køge,,"Nordea Køge Afdeling
-","Torvet 14, 4600 Køge
-","+4570333333
-",www.nordea.dk
-1437,Nordea,Køge,,"Nordea Køge Afdeling
-","Torvet 14, 4600 Køge
-","+4570333333
-",www.nordea.dk
+1436,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
+1437,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 1438,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 1439,Nordea,Ølby Center,,Nordea Ølby Afdeling,"Ølby Torvecenter 27, 4600 Køge",+4570333333,www.nordea.dk
 1471,Danske Bank,Lyngby,,Danske Bank Lyngby Afdeling,"Lyngby Hovedgade 25, 2800 Lyngby",+4545124800,www.danskebank.dk
 1479,Danske Bank,Nørreport,,Danske Bank Nørreport Afdeling,"Nørre Voldgade 68, 1358 København K",+4545120600,www.danskebank.dk
 1481,Danske Bank,Boulevarden,,Danske Bank Brøndby Afdeling,"Brøndbyøster Boulevard 7, 2605 Brøndby",+4545120550,www.danskebank.dk
-1482,Danske Bank,Boulevarden,,Danske Bank Brøndby Afdeling,"Brøndbyøster Boulevard 7, 2605 Brøndby","+4545120550
-",www.danskebank.dk
+1482,Danske Bank,Boulevarden,,Danske Bank Brøndby Afdeling,"Brøndbyøster Boulevard 7, 2605 Brøndby",+4545120550,www.danskebank.dk
 1492,Danske Bank,Store Kongensgade,,Danske Bank Store Kongensgade Afdeling,"Store Kongensgade 49, 1264 København K",+4545120110,www.danskebank.dk
 1498,Danske Bank,København,,Danske Bank Store Kongensgade Afdeling,"Store Kongensgade 49, 1264 København K",+4545120110,www.danskebank.dk
 1501,Danske Bank,Billund,,Danske Bank Billund Afdeling,"Hovedgaden 32A, 7190 Billund",+4545123660,www.danskebank.dk
@@ -661,8 +561,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1510,Danske Bank,Ikast,Former Brande,Ikast,"Østergade 1, 7430 Ikast",+4545123720,www.danskebank.dk
 1511,Danske Bank,Holstebro,,Danske Bank Holstebro Afdeling,"Østergade 4, 7500 Holstebro",+4545125290,www.danskebank.dk
 1513,Danske Bank,Herning,,Danske Bank Herning Afdeling,"Dalgasgade 27, 7400 Herning",+4545121600,www.danskebank.dk
-1515,Danske Bank,Aabenraa,,"Danske Bank Aabenraa Afdeling
-","Storegade 3, 6200 Aabenraa",+4545125170,www.danskebank.dk
+1515,Danske Bank,Aabenraa,,Danske Bank Aabenraa Afdeling,"Storegade 3, 6200 Aabenraa",+4545125170,www.danskebank.dk
 1517,Danske Bank,Viborg,,Danske Bank Viborg Afdeling,"Sct Mathias Gade 52, 8800 Viborg",+4545120740,www.danskebank.dk
 1519,Sparekassen Thy,Hurup,,Sparekassen Thy Hurup Afdeling,"Bredgade 144, 7760 Hurup",+4597951411,www.sparthy.dk
 1520,Danske Bank,Slagelse,,Danske Bank Slagelse Afdeling,"Nytorv 1, 4200 Slagelse",+4545121800,www.danskebank.dk
@@ -672,16 +571,14 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1532,Danske Bank,Frederikssund,,Danske Bank Frederikssund Afdeling,"Jernbanegade 7, 3600 Frederikssund",+4545120440,www.danskebank.dk
 1533,Danske Bank,Børkop,,Danske Bank Børkop Afdeling,"Ny Boder 27, 7080 Børkop",+4545121570,www.danskebank.dk
 1535,Danske Bank,Risskov,,Danske Bank Risskov Afdeling,"Nordre Strandvej 43, 8240 Risskov",+4545124030,www.danskebank.dk
-1536,Danske Bank,Aarhus,,"Danske Bank Aarhus Afdeling
-","Kannikegade 4-6, 8000 Aarhus C",+4545120020,www.danskebank.dk
+1536,Danske Bank,Aarhus,,Danske Bank Aarhus Afdeling,"Kannikegade 4-6, 8000 Aarhus C",+4545120020,www.danskebank.dk
 1543,Danske Bank,Gjesing,,Danske Bank Gjesing Afdeling,"Østervangsvej 4, 6715 Esbjerg N",+4545120970,www.danskebank.dk
 1546,Danske Bank,Esbjerg,,Danske Bank Esbjerg Afdeling,"Strandbygade 2, 6700 Esbjerg",+4545120770,www.danskebank.dk
 1548,Danske Bank,Frederikshavn,,Danske Bank Frederikshavn Afdeling,"Danmarksgade 70E, 9900 Frederikshavn",+4545125410,www.danskebank.dk
 1550,Danske Bank,"Direkte, Kundelinien",,,,,www.danskebank.dk
 1551,Danske Bank,Privat Direkte Service,,,,,www.danskebank.dk
 1552,Danske Bank,Aalborg,,Danske Bank Aalborg Afdeling,"Algade 53, 9000 Aalborg",+4545121100,www.danskebank.dk
-1559,Danske Bank,Sæby,,"Danske Bank Sæby Afdeling
-","Vestergade 35, 9300 Sæby",+4545122490,www.danskebank.dk
+1559,Danske Bank,Sæby,,Danske Bank Sæby Afdeling,"Vestergade 35, 9300 Sæby",+4545122490,www.danskebank.dk
 1560,Danske Bank,Sæby,,Danske Bank Sæby Afdeling,"Vestergade 35, 9300 Sæby",+4545122490,www.danskebank.dk
 1562,Danske Bank,Randers,,Danske Bank Randers Afdeling,"Østervold 39, 8900 Randers C",+4545120430,www.danskebank.dk
 1563,Danske Bank,Randers,,Danske Bank Randers Afdeling,"Østervold 39, 8900 Randers C",+4545120430,www.danskebank.dk
@@ -703,11 +600,10 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1681,Middelfart Sparekasse,Hedensted,,Middelfart Sparekasse Hedensted,"Østerbrogade 11A, 8722 Hedensted",+4576741150,www.midspar.dk
 1682,Middelfart Sparekasse,Vinding,,Middelfart Sparekasse Vinding,"Vindinggård Center 23, 7100 Vejle",+4576420730,www.midspar.dk
 1684,Middelfart Sparekasse,Odense,,Middelfart Sparekasse Odense,"Dalumvej 54, 5250 Odense SV",+4588208460,www.midspar.dk
-1685,Middelfart Sparekasse,Horsens,,Middelfart Sparekasse Horsens,"Strandkærvej 20B, 8700 Horsens","+4588208480
-",www.midspar.dk
+1685,Middelfart Sparekasse,Horsens,,Middelfart Sparekasse Horsens,"Strandkærvej 20B, 8700 Horsens",+4588208480,www.midspar.dk
 1686,Middelfart Sparekasse,Esbjerg,,Middelfart Sparekasse Esbjerg,"Skolegade 45, 6700 Esbjerg",+4588208550,www.midspar.dk
 1687,Middelfart Sparekasse,Århus,,Middelfart Sparekasse Aarhus,"Rosensgade 18, 8000 Aarhus C",+4564222298,www.midspar.dk
-1693,PFA Udbetalingsbank,København,,PFA Udbetalingsbank København,"Sundkrogsgade 4, 2100 København Ø ",+4570808500,www.pfa.dk
+1693,PFA Udbetalingsbank,København,,PFA Udbetalingsbank København,"Sundkrogsgade 4, 2100 København Ø",+4570808500,www.pfa.dk
 1701,Nordea,Vestsjælland,,,,,www.nordea.dk
 1702,Nordea,Nykøbing Sjælland,,,,,www.nordea.dk
 1703,Nordea,Vestsjælland,,,,,www.nordea.dk
@@ -723,7 +619,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1715,Nordea,Kalundborg,,Nordea Kalundborg Afdeling,"Vænget 13, 4400 Kalundborg",+4570333333,www.nordea.dk
 1716,Nordea,Vestsjælland Privat,,Nordea Erhverv + Privat,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570334444,www.nordea.dk
 1717,Nordea,Kalundborg,,Nordea Kalundborg Afdeling,"Vænget 13, 4400 Kalundborg",+4570333333,www.nordea.dk
-1718,Nordea,Hvalsø ,Tølløse,Nordea Hvalsø Afdeling,"Hovedgaden 22, 4330 Hvalsø",+4570333333,www.nordea.dk
+1718,Nordea,Hvalsø,Tølløse,Nordea Hvalsø Afdeling,"Hovedgaden 22, 4330 Hvalsø",+4570333333,www.nordea.dk
 1726,Nordea,Holbæk,,Nordea Holbæk Afdeling,"Ahlgade 20- 24, 4300 Holbæk",+4570333333,www.nordea.dk
 1727,Nordea,Vestsjælland Privat,,Nordea Erhverv + Privat,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570334444,www.nordea.dk
 1728,Nordea,Vestsjælland Privat,,Nordea Erhverv + Privat,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570334444,www.nordea.dk
@@ -736,9 +632,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1740,Nordea,Produktionssupport Øst,,,,,www.nordea.dk
 1742,Nordea,Fyn Produktion,,Nordea Landbrugscenter Fyn,"Vestre Stationsvej 7., 5100 Odense C",+4570333333,www.nordea.dk
 1850,Nordea,Fyn Specialistgruppe,,Nordea Landbrugscenter Fyn,"Vestre Stationsvej 7., 5100 Odense C",+4570333333,www.nordea.dk
-1901,Nordea,Aarhus,,"Nordea Aarhus Afdeling
-","Søndergade 44, 8000 Århus C","+4570333333
-",www.nordea.dk
+1901,Nordea,Aarhus,,Nordea Aarhus Afdeling,"Søndergade 44, 8000 Århus C",+4570333333,www.nordea.dk
 1905,Nordea,Ebeltoft,,Nordea Ebeltoft Afdeling,"Jernbanegade 7, 8400 Ebeltoft",+4570333333,www.nordea.dk
 1908,Nordea,Grenå,,Nordea Grenaa Afdeling,"Torvet 4, 8500 Grenaa",+4570333333,www.nordea.dk
 1909,Nordea,Hammel,,Nordea Hammel Afdeling,"H-centret Torvegade 5, 8450 Hammel",+4586961211,www.nordea.dk
@@ -756,68 +650,45 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 1922,Nordea,,,,,,www.nordea.dk
 1924,Nordea,Lystrup,,Nordea Lystrup Afdeling,"Bystævnet 1, 8520 Lystrup.",+4570333333,www.nordea.dk
 1925,Nordea,Risskov,,Nordea Risskov Afdeling,"Holmens Vej 2, 8240 Risskov",+4570333333,www.nordea.dk
-1927,Nordea,Viby J.,,"Nordea Viby J. Afdeling
-","Skanderborgvej 190, 8260 Viby J","+4570333333
-",www.nordea.dk
+1927,Nordea,Viby J.,,Nordea Viby J. Afdeling,"Skanderborgvej 190, 8260 Viby J",+4570333333,www.nordea.dk
 1928,Nordea,Åbyhøj,,Nordea Åbyhøj Afdeling,"Silkeborgvej 261- 263, 8230 Åbyhøj",+4570333333,www.nordea.dk
-1929,Nordea,Aarhus N,Møllevang,Aarhus Nord Afdeling,"Paludan-Müllers Vej 24, 8200 Aarhus N","+4570333333
-",www.nordea.dk
-1930,Nordea,,,,,"+4570333333
-",www.nordea.dk
+1929,Nordea,Aarhus N,Møllevang,Aarhus Nord Afdeling,"Paludan-Müllers Vej 24, 8200 Aarhus N",+4570333333,www.nordea.dk
+1930,Nordea,,,,,+4570333333,www.nordea.dk
 1931,Nordea,Tilst,,Nordea Tilst Afdeling,"Anelystparken 16, 8381 Tilst",+4570333333,www.nordea.dk
 1932,Nordea,Lystrup,,Nordea Lystrup Afdeling,"Bystævnet 1, 8520 Lystrup.",+4570333333,www.nordea.dk
 1933,Nordea,Tilst,,Nordea Tilst Afdeling,"Anelystparken 16, 8381 Tilst",+4570333333,www.nordea.dk
 1935,Nordea,Hadsten,,Nordea Hadsten Afdeling,"Østergade 21, 8370 Hadsten",+4570333333,www.nordea.dk
-1936,Nordea,Viby J.,,"Nordea Viby J. Afdeling
-","Skanderborgvej 190, 8260 Viby J","+4570333333
-",www.nordea.dk
+1936,Nordea,Viby J.,,Nordea Viby J. Afdeling,"Skanderborgvej 190, 8260 Viby J",+4570333333,www.nordea.dk
 1938,Nordea,Silkeborg Erhvervsfilial,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg",+4570333333,www.nordea.dk
 1939,Nordea,Silkeborg Produktion,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg",+4570333333,www.nordea.dk
-1941,Nordea,,,,,"+4570333333
-",www.nordea.dk
+1941,Nordea,,,,,+4570333333,www.nordea.dk
 1944,Nordea,Odder,,Nordea Odder Afdeling,"Banegårdsgade 2, 8300 Odder",+4570333333,www.nordea.dk
 1946,Nordea,Odder,,Nordea Odder Afdeling,"Banegårdsgade 2, 8300 Odder",+4570333333,www.nordea.dk
-1947,Nordea,,,,,"+4570333333
-",www.nordea.dk
-1948,Nordea,,,,,"+4570333333
-",www.nordea.dk
+1947,Nordea,,,,,+4570333333,www.nordea.dk
+1948,Nordea,,,,,+4570333333,www.nordea.dk
 1949,Nordea,Skanderborg,,Nordea Skanderborg,"Dagmar Centret 1, 8660 Skanderborg",+4570333333,www.nordea.dk
-1950,Nordea,Skanderborg,Hørning,"Nordea Skanderborg
-","Dagmar Centret 1, 8660 Skanderborg
-","+4570333333
-",www.nordea.dk
+1950,Nordea,Skanderborg,Hørning,Nordea Skanderborg,"Dagmar Centret 1, 8660 Skanderborg",+4570333333,www.nordea.dk
 1951,Nordea,Søndergade,,Nordea Søndergade Afdeling,"Søndergade 44, 8000 Aarhus C",+4570333333,www.nordea.dk
 1954,Nordea,Frederiksbjerg,,Nordea Frederiksbjerg Afdeling,"De Mezas Vej 1, 8000 Aarhus C",+4570333333,www.nordea.dk
-1955,Nordea,,,,,"+4570333333
-",www.nordea.dk
+1955,Nordea,,,,,+4570333333,www.nordea.dk
 1957,Nordea,Frederiksbjerg,,Nordea Frederiksbjerg Afdeling,"De Mezas Vej 1, 8000 Aarhus C",+4570333333,www.nordea.dk
 1958,Nordea,Risskov,,Nordea Risskov Afdeling,"Holmens Vej 2, 8240 Risskov",+4570333333,www.nordea.dk
 1959,Nordea,Århus,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
-1969,Nordea,,,,,"+4570333333
-",www.nordea.dk
+1969,Nordea,,,,,+4570333333,www.nordea.dk
 1970,Nordea,Århus,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
 1971,Nordea,Søndergade,,Nordea Søndergade Afdeling,"Søndergade 44, 8000 Aarhus C",+4570333333,www.nordea.dk
 1973,Nordea,Randers,,Nordea Randers Syd,"Bøsbrovej 56C, 8940 Randers Sv",+4570333333,www.nordea.dk
 1974,Nordea,Frederiksbjerg,,Nordea Frederiksbjerg Afdeling,"De Mezas Vej 1, 8000 Aarhus C",+4570333333,www.nordea.dk
-1978,Nordea,Aarhus N,Møllevang,"Nordea Aarhus N Afdeling
-","Paludan-Müllers Vej 24, 8200 Aarhus N","+4570333333
-",www.nordea.dk
-1980,Nordea,Viby J.,,"Nordea Viby J. Afdeling
-","Skanderborgvej 190, 8260 Viby J
-","+4570333333
-",www.nordea.dk
+1978,Nordea,Aarhus N,Møllevang,Nordea Aarhus N Afdeling,"Paludan-Müllers Vej 24, 8200 Aarhus N",+4570333333,www.nordea.dk
+1980,Nordea,Viby J.,,Nordea Viby J. Afdeling,"Skanderborgvej 190, 8260 Viby J",+4570333333,www.nordea.dk
 1981,Nordea,Åbyhøj,,Nordea Åbyhøj Afdeling,"Silkeborgvej 261- 263, 8230 Åbyhøj",+4570333333,www.nordea.dk
-1982,Nordea,Møllevang,Møllevang,"Nordea Aarhus N Afdeling
-","Paludan-Müllers Vej 24, 8200 Aarhus N","+4570333333
-",www.nordea.dk
+1982,Nordea,Møllevang,Møllevang,Nordea Aarhus N Afdeling,"Paludan-Müllers Vej 24, 8200 Aarhus N",+4570333333,www.nordea.dk
 1984,Nordea,Åbyhøj,,Nordea Åbyhøj Afdeling,"Silkeborgvej 261- 263, 8230 Åbyhøj",+4570333333,www.nordea.dk
 1985,Nordea,Højbjerg,,Nordea Højbjerg Afdeling,"Rundhøjtorvet 3, 8270 Højbjerg",+4570333333,www.nordea.dk
 1986,Nordea,Risskov,,Nordea Risskov Afdeling,"Holmens Vej 2, 8240 Risskov",+4570333333,www.nordea.dk
-1987,Nordea,,,,,"+4570333333
-",www.nordea.dk
+1987,Nordea,,,,,+4570333333,www.nordea.dk
 1989,Nordea,Århus,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
-1995,Nordea,Byggeprojekter,,,,"+4570333333
-",www.nordea.dk
+1995,Nordea,Byggeprojekter,,,,+4570333333,www.nordea.dk
 1996,Nordea,Århus,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
 1997,Nordea,Århus Kreditgruppe,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
 1998,Nordea,Århus Sekretariat,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
@@ -833,134 +704,92 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2012,Nordea,Middelfart,,Nordea Middelfart Afdeling,"Algade 83, 5500 Middelfart",+4570333333,www.nordea.dk
 2013,Nordea,Nyborg,,Nordea Nyborg Afdeling,"Baggersgade 1- 5, 5800 Nyborg",+4570333333,www.nordea.dk
 2014,Nordea,Langeskov,,Nordea Langeskov Afdeling,"Langeskov-centret 18, 5550 Langeskov",+4570333333,www.nordea.dk
-2015,Nordea,Tåstrup,,"Nordea Taastrup Afdeling
-","Taastrup Hovedgade 101, 2630 Taastrup","+4570333333
-",www.nordea.dk
+2015,Nordea,Tåstrup,,Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
 2016,Nordea,Islands Brygge,,Nordea Islands Brygge Afdeling,"Njalsgade 72B, 2300 København S",+4570333333,www.nordea.dk
 2017,Nordea,Aarup,,Nordea Aarup Afdeling,"Bredgade 20, 5560 Aarup",+4570333333,www.nordea.dk
 2018,Nordea,Middelfart,,Nordea Middelfart Afdeling,"Algade 83, 5500 Middelfart",+4570333333,www.nordea.dk
 2019,Nordea,Ejby,,Nordea Ejby Afdeling,"Banebroen 2, 5592 Ejby",+4570333333,www.nordea.dk
 2021,Nordea,Faaborg,,Nordea Faaborg Afdeling,"Østergade 16, 5600 Faaborg",+4570333333,www.nordea.dk
-2022,Nordea,Pantebreve,,,,"+4570333333
-",www.nordea.dk
+2022,Nordea,Pantebreve,,,,+4570333333,www.nordea.dk
 2024,Nordea,Assens,,Nordea Assens Afdeling,"Østergade 18, 5610 Assens",+4570333333,www.nordea.dk
-2026,Nordea Finans,,,,,"+4570333333
-",www.nordeafinans.dk
+2026,Nordea Finans,,,,,+4570333333,www.nordeafinans.dk
 2027,Nordea,Haarby,,Nordea Haarby Afdeling,"Algade 40, 5683 Haarby",+4570333333,www.nordea.dk
 2028,Nordea,Haarby,,Nordea Haarby Afdeling,"Algade 40, 5683 Haarby",+4570333333,www.nordea.dk
-2029,Nordea,Svendborg,,"Nordea Svendborg Afdeling
-","Centrumpladsen 8
-5700 Svendborg","+4570333333
-",www.nordea.dk
-2030,Nordea,Engagementsoverførsler Ind,,,,"+4570333333
-",www.nordea.dk
-2031,Nordea,Account Product Services,,,,"+4570333333
-",www.nordea.dk
-2032,Nordea,Engagementsoverførsler Ud,,,,"+4570333333
-",www.nordea.dk
-2033,Nordea,Bobehandling,,,,"+4570333333
-",www.nordea.dk
+2029,Nordea,Svendborg,,Nordea Svendborg Afdeling,"Centrumpladsen 8
+5700 Svendborg",+4570333333,www.nordea.dk
+2030,Nordea,Engagementsoverførsler Ind,,,,+4570333333,www.nordea.dk
+2031,Nordea,Account Product Services,,,,+4570333333,www.nordea.dk
+2032,Nordea,Engagementsoverførsler Ud,,,,+4570333333,www.nordea.dk
+2033,Nordea,Bobehandling,,,,+4570333333,www.nordea.dk
 2035,Nordea,Card Services P&P,,,,,www.nordea.dk
 2036,Nordea,Ringe,,Nordea Ringe Afdeling,"Algade 48, 5750 Ringe",+4570333333,www.nordea.dk
 2037,Nordea,Ollerup,,Nordea Ollerup Afdeling,"Ollerup Bytorv 2, Ollerup, 5762 Vester Skerninge",+4570333333,www.nordea.dk
 2038,Nordea,Nyborg,,Nordea Nyborg Afdeling,"Baggersgade 1- 5, 5800 Nyborg",+4570333333,www.nordea.dk
 2039,Nordea,Rudkøbing,,Nordea Rudkøbing Afdeling,"Ørstedsgade 6, 5900 Rudkøbing",+4570333333,www.nordea.dk
-2040,Nordea,International Branch,,,,"+4570333333
-",www.nordea.dk
+2040,Nordea,International Branch,,,,+4570333333,www.nordea.dk
 2041,Nordea,Rudkøbing,,Nordea Rudkøbing Afdeling,"Ørstedsgade 6, 5900 Rudkøbing",+4570333333,www.nordea.dk
 2042,Nordea,Rudkøbing,,Nordea Rudkøbing Afdeling,"Ørstedsgade 6, 5900 Rudkøbing",+4570333333,www.nordea.dk
-2043,Nordea,"Forvaltning, Værgemål",,,,"+4570333333
-",www.nordea.dk
-2044,Nordea,"Forvaltning, Båndlagte",,,,"+4570333333
-",www.nordea.dk
-2045,Nordea,Fonde,,,,"+4570333333
-",www.nordea.dk
-2046,Nordea,Forvaltning,,,,"+4570333333
-",www.nordea.dk
+2043,Nordea,"Forvaltning, Værgemål",,,,+4570333333,www.nordea.dk
+2044,Nordea,"Forvaltning, Båndlagte",,,,+4570333333,www.nordea.dk
+2045,Nordea,Fonde,,,,+4570333333,www.nordea.dk
+2046,Nordea,Forvaltning,,,,+4570333333,www.nordea.dk
 2047,Nordea,Marstal,,Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
-2048,Nordea,Marstal,Ærøskøbing,"Nordea Ærø Afdeling
-","Kongensgade 28, 5960 Marstal","+4570333333
-",www.nordea.dk
+2048,Nordea,Marstal,Ærøskøbing,Nordea Ærø Afdeling,"Kongensgade 28, 5960 Marstal",+4570333333,www.nordea.dk
 2049,Nordea,Kolding,,Nordea Kolding Afdeling,"Kolding Åpark 2, 6000 Kolding",+4570333333,www.nordea.dk
-2051,Nordea,Afregningsservice,,,,"+4570333333
-",www.nordea.dk
+2051,Nordea,Afregningsservice,,,,+4570333333,www.nordea.dk
 2052,Nordea,Fredericia,,Nordea Fredericia Afdeling,"Gothersgade 5, 7000 Fredericia",+4570333333,www.nordea.dk
 2053,Nordea,Vejle,,Nordea Vejle,"Dæmningen 68, 7100 Vejle",+4570333333,www.nordea.dk
-2057,Nordea,Handelsadministration Custody Service,,,,"+4570333333
-",www.nordea.dk
-2061,Nordea,Foreign Cheques,,,,"+4570333333
-",www.nordea.dk
-2062,Nordea,PB Livrente,,,,"+4570333333
-",www.nordea.dk
+2057,Nordea,Handelsadministration Custody Service,,,,+4570333333,www.nordea.dk
+2061,Nordea,Foreign Cheques,,,,+4570333333,www.nordea.dk
+2062,Nordea,PB Livrente,,,,+4570333333,www.nordea.dk
 2063,Nordea,Odense,,Nordea Odense Afdeling,"Vestre Stationsvej 7, 5100 Odense C",+4570333333,www.nordea.dk
 2065,Nordea,"Særlige Indlån, Århus",,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
 2066,Nordea,Otterup,,Nordea Otterup Afdeling,"Søndergade 23, 5450 Otterup",+4570333333,www.nordea.dk
 2067,Nordea,Storkundeafdelingen,,Nordea StorkundeAfdelingen Aarhus,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
-2068,Nordea,Nordea Markets,,,,"+4570333333
-",www.nordea.dk
-2069,Nordea,Cards and Selfservice,,,,"+4570333333
-",www.nordea.dk
-2075,Nordea,Payment Operations,,,,"+4570333333
-",www.nordea.dk
+2068,Nordea,Nordea Markets,,,,+4570333333,www.nordea.dk
+2069,Nordea,Cards and Selfservice,,,,+4570333333,www.nordea.dk
+2075,Nordea,Payment Operations,,,,+4570333333,www.nordea.dk
 2076,Nordea,Odense,,Nordea Odense Afdeling,"Vestre Stationsvej 7, 5100 Odense C",+4570333333,www.nordea.dk
-2077,Nordea,Cards and Selfservice,,,,"+4570333333
-",www.nordea.dk
-2080,Nordea,Telefonbanken,,,,"+4570333333
-",www.nordea.dk
-2081,Nordea,Customer Support/dispute,,,,"+4570333333
-",www.nordea.dk
-2082,Nordea,Cards and Selfservice,,,,"+4570333333
-",www.nordea.dk
-2086,Nordea,Ska - Skandia Firmapension,,,,"+4570333333
-",www.nordea.dk
-2087,Nordea,Ska - Skandia Privatpension,,,,"+4570333333
-",www.nordea.dk
-2088,Nordea,Ska - Skandia Overførselspension,,,,"+4570333333
-",www.nordea.dk
-2089,Nordea,Cards and Selfservice,,,,"+4570333333
-",www.nordea.dk
-2091,Nordea,Administrationsafdelingen,,,,"+4570333333
-",www.nordea.dk
-2093,Nordea,Cib-Pjd Pensionskasserne,,,,"+4570333333
-",www.nordea.dk
-2094,Nordea,Cib-Arkitekterne Pensionskasse,,,,"+4570333333
-",www.nordea.dk
-2096,Nordea,Ska - Magisternes Pensionskasse,,,,"+4570333333
-",www.nordea.dk
-2097,Nordea,Ska - Forca,,,,"+4570333333
-",www.nordea.dk
-2100,Nordea,Store Erhvervskunder Bankafdelingen,,,,"+4570333333
-",www.nordea.dk
-2101,Nordea,Store Erhvervskunder Bankafdelingen,,,,"+4570333333
-",www.nordea.dk
+2077,Nordea,Cards and Selfservice,,,,+4570333333,www.nordea.dk
+2080,Nordea,Telefonbanken,,,,+4570333333,www.nordea.dk
+2081,Nordea,Customer Support/dispute,,,,+4570333333,www.nordea.dk
+2082,Nordea,Cards and Selfservice,,,,+4570333333,www.nordea.dk
+2086,Nordea,Ska - Skandia Firmapension,,,,+4570333333,www.nordea.dk
+2087,Nordea,Ska - Skandia Privatpension,,,,+4570333333,www.nordea.dk
+2088,Nordea,Ska - Skandia Overførselspension,,,,+4570333333,www.nordea.dk
+2089,Nordea,Cards and Selfservice,,,,+4570333333,www.nordea.dk
+2091,Nordea,Administrationsafdelingen,,,,+4570333333,www.nordea.dk
+2093,Nordea,Cib-Pjd Pensionskasserne,,,,+4570333333,www.nordea.dk
+2094,Nordea,Cib-Arkitekterne Pensionskasse,,,,+4570333333,www.nordea.dk
+2096,Nordea,Ska - Magisternes Pensionskasse,,,,+4570333333,www.nordea.dk
+2097,Nordea,Ska - Forca,,,,+4570333333,www.nordea.dk
+2100,Nordea,Store Erhvervskunder Bankafdelingen,,,,+4570333333,www.nordea.dk
+2101,Nordea,Store Erhvervskunder Bankafdelingen,,,,+4570333333,www.nordea.dk
 2102,Nordea,Kongens Nytorv,,Nordea Kongens Nytorv Afdeling,"Kongens Nytorv 28, 1050 København K",+4570333333,www.nordea.dk
 2103,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 2104,Nordea,Trianglen,,Nordea Trianglen Afdeling,"Østerbrogade 78, 2100 København Ø",+4570333333,www.nordea.dk
-2105,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+2105,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 2106,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 2107,Nordea,Frederiksberg,,Nordea Frederiksberg Afdeling,"Smallegade 2, 2000 Frederiksberg",+4570333333,www.nordea.dk
 2108,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
-2109,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+2109,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 2110,Nordea,Amager,,Nordea Amager Afdeling,"Amagerbrogade 26, 2300 København S",+4570333333,www.nordea.dk
 2111,Nordea,Valby,,Nordea Valby Afdeling,"Valby Langgade 44, 2500 Valby",+4570333333,www.nordea.dk
 2112,Nordea,Falkoner Allé,,Nordea Falkoner Alle Afdeling,"Falkoner Alle 53, 2000 Frederiksberg",+4570333333,www.nordea.dk
-2113,Nordea,Østerbro,,Nordea Svanemølle Afdeling,"Østerbrogade 137, 2100 København Ø","+4570333333
-",www.nordea.dk
+2113,Nordea,Østerbro,,Nordea Svanemølle Afdeling,"Østerbrogade 137, 2100 København Ø",+4570333333,www.nordea.dk
 2114,Nordea,Nørrebro,,Nordea Nørrebro Afdeling,"Nørrebrogade 180, 2200 København N",+4570333333,www.nordea.dk
 2115,Nordea,Enghave,,Nordea Enghave Afdeling,"Enghave Plads 4, 1670 København V",+4570333333,www.nordea.dk
 2116,Nordea,Hellerup,,Nordea Hellerup Afdeling,"Strandvejen 159, 2900 Hellerup",+4570333333,www.nordea.dk
 2117,Nordea,Falkoner Allé,,Nordea Falkoner Alle Afdeling,"Falkoner Alle 53, 2000 Frederiksberg",+4570333333,www.nordea.dk
-2118,Nordea,Inkasso,,,,"+4570333333
-",www.nordea.dk
-2119,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+2118,Nordea,Inkasso,,,,+4570333333,www.nordea.dk
+2119,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 2120,Nordea,Brønshøj,,Nordea Brønshøj Afdeling,"Frederikssundsvej 175, 2700 Brønshøj",+4570333333,www.nordea.dk
 2121,Nordea,København,,Nordea Erhvervsfilial København,"Vesterbrogade 8, 4. Sal, 0900 København C",+4570334444,www.nordea.dk
 2122,Nordea,Frederiksberg,,Nordea Frederiksberg Afdeling,"Smallegade 2, 2000 Frederiksberg",+4570333333,www.nordea.dk
-2123,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+2123,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 2124,Nordea,Trianglen,,Nordea Trianglen Afdeling,"Østerbrogade 78, 2100 København Ø",+4570333333,www.nordea.dk
 2125,Nordea,Brønshøj,Husum,Nordea Brønshøj Afdeling,"Frederikssundsvej 175
-2700 Brønshøj","+4570333333
-",www.nordea.dk
+2700 Brønshøj",+4570333333,www.nordea.dk
 2126,Nordea,Hvidovre,,Nordea Hvidovre Afdeling,"Hvidovrevej 338B, 2650 Hvidovre",+4570333333,www.nordea.dk
 2127,Nordea,Hellerup,,Nordea Hellerup Afdeling,"Strandvejen 159, 2900 Hellerup",+4570333333,www.nordea.dk
 2128,Nordea,Vanløse,,Nordea Vanløse Afdeling,"Jernbane Alle 47, 2720 Vanløse",+4570333333,www.nordea.dk
@@ -971,43 +800,29 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2133,Nordea,Charlottenlund,,Nordea Charlottenlund Afdeling,"Jægersborg Alle 22, 2920 Charlottenlund",+4570333333,www.nordea.dk
 2134,Nordea,Valby,,Nordea Valby Afdeling,"Valby Langgade 44, 2500 Valby",+4570333333,www.nordea.dk
 2135,Nordea,Charlottenlund,,Nordea Charlottenlund Afdeling,"Jægersborg Alle 22, 2920 Charlottenlund",+4570333333,www.nordea.dk
-2136,Nordea,Østerbro,,"Nordea Svanemølle Afdeling
-","Østerbrogade 137, 2100 København Ø
-","+4570333333
-",www.nordea.dk
-2137,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+2136,Nordea,Østerbro,,Nordea Svanemølle Afdeling,"Østerbrogade 137, 2100 København Ø",+4570333333,www.nordea.dk
+2137,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 2138,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 2139,Nordea,Hvidovre,,Nordea Hvidovre Afdeling,"Hvidovrevej 338B, 2650 Hvidovre",+4570333333,www.nordea.dk
-2140,Nordea,Nordea Kredit,,,,"+4570333333
-",www.nordea.dk
-2141,Nordea,Medarbejderbanken,,,,"+4570333333
-",www.nordea.dk
+2140,Nordea,Nordea Kredit,,,,+4570333333,www.nordea.dk
+2141,Nordea,Medarbejderbanken,,,,+4570333333,www.nordea.dk
 2142,Nordea,Vanløse,,Nordea Vanløse Afdeling,"Jernbane Alle 47, 2720 Vanløse",+4570333333,www.nordea.dk
 2143,Nordea,Vanløse,,Nordea Vanløse Afdeling,"Jernbane Alle 47, 2720 Vanløse",+4570333333,www.nordea.dk
 2144,Nordea,Trianglen,,Nordea Trianglen Afdeling,"Østerbrogade 78, 2100 København Ø",+4570333333,www.nordea.dk
 2145,Nordea,Risskov,,Nordea Risskov Afdeling,"Holmens Vej 2, 8240 Risskov",+4570333333,www.nordea.dk
-2147,Nordea,Investeringscenter Østerbro,,,,"+4570333333
-",www.nordea.dk
-2148,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14- 16, 1360 København K",+4570333333,www.nordea.dk
+2147,Nordea,Investeringscenter Østerbro,,,,+4570333333,www.nordea.dk
+2148,Nordea,Nørreport,,Nordea Nørreport Afdeling,"Frederiksborggade 14-16, 1360 København K",+4570333333,www.nordea.dk
 2149,Nordea,Storkundeafdelingen,,Nordea StorkundeAfdelingen Aarhus,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
-2150,Nordea,Private Banking Formueforvaltning,,,,"+4570333333
-",www.nordea.dk
-2152,Nordea,Privatkunder,,,,"+4570333333
-",www.nordea.dk
-2153,Nordea,Trade Finance Import,,,,"+4570333333
-",www.nordea.dk
-2155,Nordea,Adm. Hkkf Fonde Custody Service,,,,"+4570333333
-",www.nordea.dk
-2156,Nordea,Kontantservice,,,,"+4570333333
-",www.nordea.dk
+2150,Nordea,Private Banking Formueforvaltning,,,,+4570333333,www.nordea.dk
+2152,Nordea,Privatkunder,,,,+4570333333,www.nordea.dk
+2153,Nordea,Trade Finance Import,,,,+4570333333,www.nordea.dk
+2155,Nordea,Adm. Hkkf Fonde Custody Service,,,,+4570333333,www.nordea.dk
+2156,Nordea,Kontantservice,,,,+4570333333,www.nordea.dk
 2157,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
 2159,Nordea,Midt- og Vestjylland Sekretariat,,Nordea Thisted Afdeling,"Toldbodgade 4, 7700 Thisted",+4570333333,www.nordea.dk
-2161,Nordea,Tinglysningsafgifter - Automatiske,,,,"+4570333333
-",www.nordea.dk
-2162,Nordea,Tinglysningsafgifter - Manuelle,,,,"+4570333333
-",www.nordea.dk
-2164,Nordea,Kontantservice,,,,"+4570333333
-",www.nordea.dk
+2161,Nordea,Tinglysningsafgifter - Automatiske,,,,+4570333333,www.nordea.dk
+2162,Nordea,Tinglysningsafgifter - Manuelle,,,,+4570333333,www.nordea.dk
+2164,Nordea,Kontantservice,,,,+4570333333,www.nordea.dk
 2165,Nordea,Vallensbæk,,Nordea Vallensbæk Afdeling,"Vallensbæk Stationstorv 33, 2665 Vallensbæk Strand",+4570333333,www.nordea.dk
 2166,Nordea,København Vest Sekretariat,,Nordea Erhvervsfilial København,"Vesterbrogade 8, 4. Sal, 0900 København C",+4570334444,www.nordea.dk
 2168,Nordea,København Nord,,Nordea Erhvervsfilial København,"Vesterbrogade 8, 4. Sal, 0900 København C",+4570334444,www.nordea.dk
@@ -1033,9 +848,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2197,Nordea,København Nord/Hørsholm Produktion,,Nordea Erhvervsfilial København,"Vesterbrogade 8, 4. Sal, 0900 København C",+4570334444,www.nordea.dk
 2198,Nordea,Sydsjælland Kreditgruppe,,,,,www.nordea.dk
 2199,Nordea,Helsingør,,Nordea Helsingør Afdeling,"Stengade 45, 3000 Helsingør",+4570333333,www.nordea.dk
-2201,Nordea,Lyngby,,"Nordea Lyngby Afdeling
-","Lyngby Hovedgade 96, 2800 Kgs. Lyngby","+4570333333
-",www.nordea.dk
+2201,Nordea,Lyngby,,Nordea Lyngby Afdeling,"Lyngby Hovedgade 96, 2800 Kgs. Lyngby",+4570333333,www.nordea.dk
 2202,Nordea,Sydsjælland Produktion,,,,,www.nordea.dk
 2203,Nordea,Produktionsafdelingen Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 2204,Nordea,Slagelse,,Nordea Slagelse Afdeling,"Smedegade 8, 4200 Slagelse",+4570333333,www.nordea.dk
@@ -1060,21 +873,16 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2224,Nordea,Erhvervscenter København,,Nordea Erhvervscenter København Vest,"Hovedvejen 112, 2600 Glostrup",+4570334444,www.nordea.dk
 2225,Unknown,,,,,,
 2226,Nordea,Erhvervsfilial København Vest,,,,,www.nordea.dk
-2228,Nordea,Lyngby,,Nordea Lyngby Afdeling,"Lyngby Hovedgade 96, 2800 Kgs. Lyngby","+4570333333
-",www.nordea.dk
-2229,Nordea,Lyngby,,Nordea Lyngby Afdeling,"Lyngby Hovedgade 96, 2800 Kgs. Lyngby
-","+4570333333
-",www.nordea.dk
-2230,Nordea,Hillerød,,"Nordea Hillerød Afdeling
-","Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
+2228,Nordea,Lyngby,,Nordea Lyngby Afdeling,"Lyngby Hovedgade 96, 2800 Kgs. Lyngby",+4570333333,www.nordea.dk
+2229,Nordea,Lyngby,,Nordea Lyngby Afdeling,"Lyngby Hovedgade 96, 2800 Kgs. Lyngby",+4570333333,www.nordea.dk
+2230,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 2232,Nordea,Erhvervsfilial Roskilde/Frederikssund,,,,,www.nordea.dk
 2233,Nordea,Erhvervsfilial Køge,,,,,www.nordea.dk
 2235,Nordea,København Vest Erhvervsafdeling,,Nordea Erhvervsfilial København,"Vesterbrogade 8, 4. Sal, 0900 København C",+4570334444,www.nordea.dk
 2236,Nordea,Fyn,,Nordea Landbrugscenter Fyn,"Vestre Stationsvej 7., 5100 Odense C",+4570333333,www.nordea.dk
 2237,Nordea,Aabenraa,,Nordea Aabenraa Afdeling,"Storegade 31, 6200 Aabenraa",+4570333333,www.nordea.dk
 2239,Nordea,Sønderjylland Produktion,,Nordea Erhvervsfilial Sønderjylland,"Perlegade 9., 6400 Sønderborg",+4570334444,www.nordea.dk
-2241,Nordea,Erhvervscenter Århus,,"Nordea Aarhus Afdeling
-","Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
+2241,Nordea,Erhvervscenter Århus,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
 2242,Nordea,København Nord Kreditgruppe,,Nordea Erhvervsfilial København,"Vesterbrogade 8, 4. Sal, 0900 København C",+4570334444,www.nordea.dk
 2243,Nordea,Viborg Sekretariat,,Nordea Viborg PrivatkundeAfdeling,"Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
 2245,Nordea,Sønderjylland,,Nordea Erhvervsfilial Sønderjylland,"Perlegade 9., 6400 Sønderborg",+4570334444,www.nordea.dk
@@ -1106,14 +914,12 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2275,Nordea,Taastrup,,Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
 2276,Nordea,Hillerød,,Nordea Hillerød Afdeling,"Slotsgade 44, 3400 Hillerød",+4570333333,www.nordea.dk
 2277,Nordea,Glostrup,,Nordea Glostrup Afdeling,"Hovedvejen 112, 2600 Glostrup",+4570333333,www.nordea.dk
-2278,Nordea,Aarhus N,Møllevang,Nordea Aarhus Nord Afdeling,"Paludan-Müllers Vej 24, 8200 Aarhus N","+4570333333
-",www.nordea.dk
+2278,Nordea,Aarhus N,Møllevang,Nordea Aarhus Nord Afdeling,"Paludan-Müllers Vej 24, 8200 Aarhus N",+4570333333,www.nordea.dk
 2279,Nordea,Ballerup,,Nordea Ballerup Afdeling,"Centrumgaden 1, 2750 Ballerup",+4570333333,www.nordea.dk
 2280,Nordea,Roskilde,,Nordea Roskilde Afdeling,"Algade 16, 4000 Roskilde",+4570333333,www.nordea.dk
 2281,Nordea,Hvalsø,,Nordea Hvalsø Afdeling,"Hovedgaden 22, 4330 Hvalsø",+4570333333,www.nordea.dk
 2282,Nordea,Viby Sjælland,,Nordea Viby Sj. Afdeling,"Søndergade 8, 4130 Viby Sjælland",+4570333333,www.nordea.dk
-2283,Nordea,Roskilde,Hedehusene,Nordea Roskilde Afdeling,"Algade 16, 4000 Roskilde","+4570333333
-",www.nordea.dk
+2283,Nordea,Roskilde,Hedehusene,Nordea Roskilde Afdeling,"Algade 16, 4000 Roskilde",+4570333333,www.nordea.dk
 2284,Nordea,Viby Sjælland,,Nordea Viby Sj. Afdeling,"Søndergade 8, 4130 Viby Sjælland",+4570333333,www.nordea.dk
 2285,Nordea,Viby Sjælland,,Nordea Viby Sj. Afdeling,"Søndergade 8, 4130 Viby Sjælland",+4570333333,www.nordea.dk
 2286,Nordea,Syd- og Vestjylland,,Nordea Randers Syd,"Bøsbrovej 56C, 8940 Randers Sv",+4570333333,www.nordea.dk
@@ -1142,55 +948,34 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2316,Nordea,"Skanderborgvej 190, 8260 Viby J",,Nordea Viby Afdeling,"Skanderborgvej 190, 8260 Viby J",+4570333333,www.nordea.dk
 2317,Nordea,Åbyhøj,,Nordea Skibby Afdeling,"Hovedgaden 48, 4050 Skibby",+4570333333,www.nordea.dk
 2318,Nordea,"Rundhøjtorvet 3, 8270 Højbjerg",,Nordea Højbjerg Afdeling,"Rundhøjtorvet 3, 8270 Højbjerg",+4570333333,www.nordea.dk
-2320,Nordea,Faxe,,Nordea Faxe Afdeling,"Torvegade 14 A, 4640 Faxe","+4570333333
-",www.nordea.dk
-2321,Nordea,Faxe,,"Nordea Faxe Afdeling
-","Torvegade 14 A, 4640 Faxe
-","+4570333333
-",www.nordea.dk
-2322,Nordea,Faxe,,"Nordea Faxe Afdeling
-","Torvegade 14 A, 4640 Faxe
-","+4570333333
-",www.nordea.dk
+2320,Nordea,Faxe,,Nordea Faxe Afdeling,"Torvegade 14 A, 4640 Faxe",+4570333333,www.nordea.dk
+2321,Nordea,Faxe,,Nordea Faxe Afdeling,"Torvegade 14 A, 4640 Faxe",+4570333333,www.nordea.dk
+2322,Nordea,Faxe,,Nordea Faxe Afdeling,"Torvegade 14 A, 4640 Faxe",+4570333333,www.nordea.dk
 2323,Nordea,Nemkonto Cpr,,,,,www.nordea.dk
 2324,Nordea,Erhvervsfilial Syd- og Vestjylland,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 2325,Nordea,Århus Storkundeafdeling,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
-2330,Nordea,Viborg,,"Nordea Viborg Afdeling
-","Sct. Mathias Gade 68, 8800 Viborg
-",+4570333333,www.nordea.dk
-2331,Nordea,Bjerringbro,,Nordea Bjerringbro Afdeling,"Storegade 12, 8850 Bjerringbro","+4570333333
-",www.nordea.dk
-2332,Nordea,Viborg,,"Nordea Viborg Afdeling
-","Sct. Mathias Gade 68, 8800 Viborg
-",+4570333333,www.nordea.dk
-2334,Nordea,Viborg,,"Nordea Viborg Afdeling
-","Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
-2335,Nordea,Viborg,,"Nordea Viborg Afdeling
-","Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
+2330,Nordea,Viborg,,Nordea Viborg Afdeling,"Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
+2331,Nordea,Bjerringbro,,Nordea Bjerringbro Afdeling,"Storegade 12, 8850 Bjerringbro",+4570333333,www.nordea.dk
+2332,Nordea,Viborg,,Nordea Viborg Afdeling,"Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
+2334,Nordea,Viborg,,Nordea Viborg Afdeling,"Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
+2335,Nordea,Viborg,,Nordea Viborg Afdeling,"Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
 2336,Nordea,Århus Erhverv,,Nordea Aarhus Afdeling,"Skt. Clemens Torv 2- 6, 8000 Aarhus C",+4570333333,www.nordea.dk
-2340,Nordea,"Store Heddinge
-",,Nordea St. Heddinge Afdeling,"Nytorv 5, 4660 Store Heddinge",+4570333333,www.nordea.dk
+2340,Nordea,Store Heddinge,,Nordea St. Heddinge Afdeling,"Nytorv 5, 4660 Store Heddinge",+4570333333,www.nordea.dk
 2341,Nordea,Store Heddinge,,Nordea St. Heddinge Afdeling,"Nytorv 5, 4660 Store Heddinge",+4570333333,www.nordea.dk
 2342,Nordea,Medarbejderbanken,,,,,www.nordea.dk
 2343,Nordea,Greve,,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570333333,www.nordea.dk
 2344,Nordea,Solrød Strand,,Nordea Solrød Center Afdeling,"Solrød Center 130, 2680 Solrød Strand",+4570333333,www.nordea.dk
 2346,Nordea,Roskilde,,Nordea Roskilde Afdeling,"Algade 16, 4000 Roskilde",+4570333333,www.nordea.dk
-2347,Nordea,Greve,Hundige,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve
-",+4570334444,www.nordea.dk
+2347,Nordea,Greve,Hundige,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570334444,www.nordea.dk
 2348,Nordea,Allerød,,Nordea Allerød Afdeling,"M.d. Madsensvej 7, 3450 Allerød",+4570333333,www.nordea.dk
 2350,Nordea,Aalborg,,Nordea Aalborg Afdeling,"Prinsensgade 15, 9000 Aalborg",+4570333333,www.nordea.dk
 2351,Nordea,Aalborg,,Nordea Aalborg Afdeling,"Prinsensgade 15, 9000 Aalborg",+4570333333,www.nordea.dk
 2352,Nordea,Aalborg,,Nordea Aalborg Afdeling,"Prinsensgade 15, 9000 Aalborg",+4570333333,www.nordea.dk
-2356,Nordea,Aalborg,Hals,Nordea Hadsten Afdeling,"Prinsensgade 15, 9000 Aalborg
-",+4570333333,www.nordea.dk
+2356,Nordea,Aalborg,Hals,Nordea Hadsten Afdeling,"Prinsensgade 15, 9000 Aalborg",+4570333333,www.nordea.dk
 2358,Nordea,Nordjylland Erhverv,,Nordea Erhverv + Privat,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570334444,www.nordea.dk
 2360,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 2361,Nordea,Store Heddinge,Hårlev,Nordea St. Heddinge Afdeling,"Nytorv 5, 4660 Store Heddinge",+4570333333,www.nordea.dk
-2362,Nordea,"Køge
-",Herfølge,"Nordea Køge Afdeling
-","Torvet 14, 4600 Køge
-","+4570333333
-",www.nordea.dk
+2362,Nordea,Køge,Herfølge,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 2363,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 2364,Nordea,Borup,Bjæverskov,Nordea Borup Afdeling,"Hovedgaden 58, 4140 Borup",+4570333333,www.nordea.dk
 2366,Nordea,Ølby,,Nordea Ølby Afdeling,"Ølby Torvecenter 27, 4600 Køge",+4570333333,www.nordea.dk
@@ -1201,26 +986,15 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2375,Nordea,Hjallesevej,,Nordea Hjallesevej Afdeling,"Hjallesevej 126, 5230 Odense",+4570333333,www.nordea.dk
 2376,Nordea,Tarup,,Nordea Tarup Afdeling,"Rugårdsvej 191, 5210 Odense Nv",+4570333333,www.nordea.dk
 2377,Nordea,Kerteminde,,Nordea Kerteminde Afdeling,"Langegade 33, 5300 Kerteminde",+4570333333,www.nordea.dk
-2378,Nordea,Nordvestjylland Kredit,,"Nordea Nordvestjylland Kredit
-","Nørregade 14, 7500 Holstebro
-","+4570334444
-",www.nordea.dk
-2379,Nordea,Nordvestjylland Erhverv,,"Nordea Nordvestjylland Kredit
-","Nørregade 14, 7500 Holstebro",+4570334444,www.nordea.dk
-2380,Nordea,Silkeborg,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg
-",+4570333333,www.nordea.dk
+2378,Nordea,Nordvestjylland Kredit,,Nordea Nordvestjylland Kredit,"Nørregade 14, 7500 Holstebro",+4570334444,www.nordea.dk
+2379,Nordea,Nordvestjylland Erhverv,,Nordea Nordvestjylland Kredit,"Nørregade 14, 7500 Holstebro",+4570334444,www.nordea.dk
+2380,Nordea,Silkeborg,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg",+4570333333,www.nordea.dk
 2381,Nordea,Silkeborg,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg",+4570333333,www.nordea.dk
 2382,Nordea,Silkeborg,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg",+4570333333,www.nordea.dk
 2383,Nordea,Silkeborg,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg",+4570333333,www.nordea.dk
 2384,Nordea,Silkeborg,,Nordea Silkeborg Afdeling,"Vestergade 13, 8600 Silkeborg",+4570333333,www.nordea.dk
-2390,Nordea,Nordvestjylland,,"Nordea Nordvestjylland Kredit
-","Nørregade 14, 7500 Holstebro
-","+4570334444
-",www.nordea.dk
-2392,Nordea,Nordvestjylland Sekretariat,,"Nordea Nordvestjylland Kredit
-","Nørregade 14, 7500 Holstebro
-","+4570334444
-",www.nordea.dk
+2390,Nordea,Nordvestjylland,,Nordea Nordvestjylland Kredit,"Nørregade 14, 7500 Holstebro",+4570334444,www.nordea.dk
+2392,Nordea,Nordvestjylland Sekretariat,,Nordea Nordvestjylland Kredit,"Nørregade 14, 7500 Holstebro",+4570334444,www.nordea.dk
 2393,Nordea,Struer,,Nordea Struer Afdeling,"Ved Fjorden 2, 7600 Struer",+4570333333,www.nordea.dk
 2400,Nordea,Slagelse,,Nordea Slagelse Afdeling,"Smedegade 8, 4200 Slagelse",+4570333333,www.nordea.dk
 2401,Nordea,Slagelse,,Nordea Slagelse Afdeling,"Smedegade 8, 4200 Slagelse",+4570333333,www.nordea.dk
@@ -1234,20 +1008,15 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2409,Nordea,Risskov,,Nordea Risskov Afdeling,"Holmens Vej 2, 8240 Risskov",+4570333333,www.nordea.dk
 2410,Nordea,Albertslund,,Nordea Albertslund Afdeling,"Bytorvet 2, 2620 Albertslund",+4570333333,www.nordea.dk
 2411,Nordea,Gilleleje,,Nordea Gilleleje Afdeling,"Vesterbrogade 18, 3250 Gilleleje",+4570333333,www.nordea.dk
-2412,Nordea,Åbyhøj,,"Nordea Åbyhøj Afdeling
-","Silkeborgvej 261- 263, 8230 Åbyhøj
-","+4570333333
-",www.nordea.dk
+2412,Nordea,Åbyhøj,,Nordea Åbyhøj Afdeling,"Silkeborgvej 261- 263, 8230 Åbyhøj",+4570333333,www.nordea.dk
 2413,Nordea,Farum,,Nordea Farum Afdeling,"Farum Hovedgade 14, 3520 Farum",+4570333333,www.nordea.dk
 2414,Nordea,Ishøj,,Nordea Ishøj Afdeling,"Ishøj Vestergade 8, 2635 Ishøj",+4570333333,www.nordea.dk
 2415,Nordea,Nivå,,Nordea Nivå Afdeling,"Nivå Center 21, 2990 Nivå",+4570333333,www.nordea.dk
 2416,Nordea,Ballerup,,Nordea Ballerup Afdeling,"Centrumgaden 1, 2750 Ballerup",+4570333333,www.nordea.dk
 2417,Nordea,Taastrup,,Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
-2418,Nordea,Helsinge,,Nordea Helsinge Afdeling,"Østergade 7, 3200 Helsinge
-",+4570333333,www.nordea.dk
+2418,Nordea,Helsinge,,Nordea Helsinge Afdeling,"Østergade 7, 3200 Helsinge",+4570333333,www.nordea.dk
 2419,Nordea,Stenløse,,Nordea Stenløse Afdeling,"Egedal Centret 21, 3660 Stenløse",+4570333333,www.nordea.dk
-2420,Nordea,Løgstør,,Nordea Løgstør Afdeling,"Østerbrogade 19, 9670 Løgstør
-",+4570333333,www.nordea.dk
+2420,Nordea,Løgstør,,Nordea Løgstør Afdeling,"Østerbrogade 19, 9670 Løgstør",+4570333333,www.nordea.dk
 2421,Nordea,Aars,,Nordea Aars Afdeling,"Himmerlandsgade 101, 9600 Aars",+4570333333,www.nordea.dk
 2423,Nordea,Viby,,Nordea Viby Sj. Afdeling,"Søndergade 8, 4130 Viby Sjælland",+4570333333,www.nordea.dk
 2424,Nordea,Odder,,Nordea Odder Afdeling,"Banegårdsgade 2, 8300 Odder",+4570333333,www.nordea.dk
@@ -1275,13 +1044,10 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2447,Nordea,Hørsholm,,Nordea Hørsholm Afdeling,"Hovedgaden 20, 2970 Hørsholm",+4570333333,www.nordea.dk
 2448,Nordea,Hørsholm,,Nordea Hørsholm Afdeling,"Hovedgaden 20, 2970 Hørsholm",+4570333333,www.nordea.dk
 2449,Nordea,Haderslev,,Nordea Haderslev Afdeling,"Nørregade 30, 6100 Haderslev",+4570333333,www.nordea.dk
-2450,Nordea,"Haderslev
-",,Nordea Holstebro,"Nørregade 30, 6100 Haderslev
-",+4570333333,www.nordea.dk
+2450,Nordea,Haderslev,,Nordea Holstebro,"Nørregade 30, 6100 Haderslev",+4570333333,www.nordea.dk
 2451,Nordea,Rødding,,Nordea Rødding Afdeling,"Østergade 1, 6630 Rødding",+4570333333,www.nordea.dk
 2452,Nordea,Toftlund,,Nordea Toftlund Afdeling,"Søndergade 17, 6520 Toftlund",+4570333333,www.nordea.dk
-2453,Nordea,Vojens,,Nordea Vojens Afdeling,"Vestergade 11, 6500 Vojens
-",+4570333333,www.nordea.dk
+2453,Nordea,Vojens,,Nordea Vojens Afdeling,"Vestergade 11, 6500 Vojens",+4570333333,www.nordea.dk
 2454,Nordea,Vojens,,Nordea Vojens Afdeling,"Vestergade 11, 6500 Vojens",+4570333333,www.nordea.dk
 2455,Nordea,Christiansfeld,,Nordea Christiansfeld Afdeling,"Kongensgade 4, 6070 Christiansfeld",+4570333333,www.nordea.dk
 2456,Nordea,Sønderjylland,,Nordea Erhvervsfilial Sønderjylland,"Perlegade 9., 6400 Sønderborg",+4570334444,www.nordea.dk
@@ -1306,9 +1072,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2482,Nordea,Landbrugscenter Randers,,Nordea Landbrugscenter Sjælland,"Sct. Knudsgade 2 B. 1.., 4100 Ringsted",+4570333333,www.nordea.dk
 2483,Nordea,Vejen,,Nordea Vejen Afdeling,"Rådhuspassagen 2, 6600 Vejen",+4570333333,www.nordea.dk
 2484,Nordea,Landbrugscenter Sønderjylland,,Nordea Landbrugscenter Sjælland,"Sct. Knudsgade 2 B. 1.., 4100 Ringsted",+4570333333,www.nordea.dk
-2490,Nordea,Maribo,,"Nordea Maribo Afdeling
-","Vestergade 2A, 4930 Maribo
-",+4570333333,www.nordea.dk
+2490,Nordea,Maribo,,Nordea Maribo Afdeling,"Vestergade 2A, 4930 Maribo",+4570333333,www.nordea.dk
 2491,Nordea,Maribo,,Nordea Maribo Afdeling,"Vestergade 2A, 4930 Maribo",+4570333333,www.nordea.dk
 2492,Nordea,Maribo,,Nordea Maribo Afdeling,"Vestergade 2A, 4930 Maribo",+4570333333,www.nordea.dk
 2495,Nordea,Jylland Vest Specialistgruppe,,Nordea Erhvervscenter Jylland Nord,"Prinsensgade 15, 9000 Aalborg",+4570334444,www.nordea.dk
@@ -1317,13 +1081,11 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2502,Nordea,Jylland Øst Kredit,,Nordea Erhvervscenter Jylland Nord,"Prinsensgade 15, 9000 Aalborg",+4570334444,www.nordea.dk
 2504,Nordea,Østjylland Sekratariat,,,,,www.nordea.dk
 2510,Nordea,Næstved,,Nordea Næstved Afdeling,"Axeltorv 2, 4700 Næstved",+4570333333,www.nordea.dk
-2520,Nordea,Ringsted,,Nordea Ringsted Afdeling,"Torvet 10-12, 4100 Ringsted
-",+4570333333,www.nordea.dk
+2520,Nordea,Ringsted,,Nordea Ringsted Afdeling,"Torvet 10-12, 4100 Ringsted",+4570333333,www.nordea.dk
 2521,Nordea,Ringsted,,Nordea Ringsted Afdeling,"Torvet 10-12, 4100 Ringsted",+4570333333,www.nordea.dk
 2522,Nordea,Ringsted,,Nordea Ringsted Afdeling,"Torvet 10-12, 4100 Ringsted",+4570333333,www.nordea.dk
 2523,Nordea,Sydsjælland Specialister,,,,,www.nordea.dk
-2524,Nordea,Ringsted,,Nordea Ringsted Afdeling,"Torvet 10-12, 4100 Ringsted
-",+4570333333,www.nordea.dk
+2524,Nordea,Ringsted,,Nordea Ringsted Afdeling,"Torvet 10-12, 4100 Ringsted",+4570333333,www.nordea.dk
 2530,Nordea,Kalundborg,,Nordea Kalundborg Afdeling,"Vænget 13, 4400 Kalundborg",+4570333333,www.nordea.dk
 2540,Nordea,Esbjerg,,Nordea Esbjerg Afdeling,"Kongensgade 44-48, 6700 Esbjerg",+4570333333,www.nordea.dk
 2541,Nordea,Syd- og Vestjylland Kreditgruppe,,Nordea Randers Syd,"Bøsbrovej 56C, 8940 Randers Sv",+4570333333,www.nordea.dk
@@ -1331,13 +1093,11 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2550,Nordea,Vordingborg,,Nordea Vordingborg Afdeling,"Prins Jørgens Alle 6B, 4760 Vordingborg",+4570333333,www.nordea.dk
 2560,Nordea,Aalestrup,,Nordea Aalestrup Afdeling,"Vestergade 12, 9620 Aalestrup",+4570333333,www.nordea.dk
 2561,Nordea,Viborg,,Nordea Viborg Afdeling,"Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
-2562,Nordea,Viborg,,"Nordea Viborg Afdeling
-","Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
+2562,Nordea,Viborg,,Nordea Viborg Afdeling,"Sct. Mathias Gade 68, 8800 Viborg",+4570333333,www.nordea.dk
 2570,Nordea,Herning,,Nordea Herning Afdeling,"Bredgade 30, 7400 Herning",+4570333333,www.nordea.dk
 2571,Nordea,Herning,,Nordea Herning Afdeling,"Bredgade 30, 7400 Herning",+4570333333,www.nordea.dk
 2572,Nordea,Herning,,Nordea Herning Afdeling,"Bredgade 30, 7400 Herning",+4570333333,www.nordea.dk
-2580,Nordea,Frederiksværk,,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk
-",+4570333333,www.nordea.dk
+2580,Nordea,Frederiksværk,,Nordea Frederiksværk Afdeling,"Torvet 37, 3300 Frederiksværk",+4570333333,www.nordea.dk
 2589,Nordea,Nemkonto CVR,,,,,www.nordea.dk
 2590,Nordea,Landbrugscenter Fyn,,Nordea Landbrugscenter Sjælland,"Sct. Knudsgade 2 B. 1.., 4100 Ringsted",+4570333333,www.nordea.dk
 2591,Nordea,Erhvervsfilial Midt- og Vestjylland,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
@@ -1349,8 +1109,7 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2597,Nordea,Erhvervsfilial Slagelse,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 2598,Nordea,Erhvervsfilial Sønderjylland,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
 2599,Nordea,Erhvervsfilial Syd- og Vestjylland,,Nordea Rønne Afdeling,"Store Torv 16-18, 3700 Rønne",+4570334444,www.nordea.dk
-2600,Nordea,Skive,,Nordea Skive Afdeling,"Søndergade 6, 7800, Skive
-",+4570333333,www.nordea.dk
+2600,Nordea,Skive,,Nordea Skive Afdeling,"Søndergade 6, 7800, Skive",+4570333333,www.nordea.dk
 2601,Nordea,Helsingør Erhverv,,Nordea Helsingør Afdeling,"Stengade 45, 3000 Helsingør",+4570333333,www.nordea.dk
 2603,Nordea,Lyngby Erhverv,,Nordea Lyngby Afdeling,"Lyngby Torv 2, 2800 Kgs. Lyngby",+4570333333,www.nordea.dk
 2610,Nordea,Frederikshavn,,Nordea Frederikshavn Afdeling,"Rimmensgade 8, 9900 Frederikshavn",+4570333333,www.nordea.dk
@@ -1463,70 +1222,10 @@ reg_number,bank,branch_note,history,branch_name,address,branch_phone,url
 2907,Nordea,"Taastrup Hovedgade 101, 2630 Taastrup",,Nordea Taastrup Afdeling,"Taastrup Hovedgade 101, 2630 Taastrup",+4570333333,www.nordea.dk
 2908,Nordea,Køge,,Nordea Køge Afdeling,"Torvet 14, 4600 Køge",+4570333333,www.nordea.dk
 2909,Nordea,Greve,,Nordea Greve Afdeling,"Centerholmen 16, 2670 Greve",+4570333333,www.nordea.dk
-2913,Nordea,ATM Support - Mobilbank,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse","+45ATMNykreditNordeaBank
-
-
-
-Åben
-
-
-
-Man:
-0.00-24.00
-
-
-
-
-MarielystStrandvej54
-
-4873
-Væggerløse
-
-
-Sepåkort",www.nordea.dk
+2913,Nordea,ATM Support - Mobilbank,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse",,www.nordea.dk
 2915,Nordea,Internationale Betalinger,,,,,www.nordea.dk
-2916,Nordea,ATM Support - Mobilbank,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse","+45ATMNykreditNordeaBank
-
-
-
-Åben
-
-
-
-Man:
-0.00-24.00
-
-
-
-
-MarielystStrandvej54
-
-4873
-Væggerløse
-
-
-Sepåkort",www.nordea.dk
-2917,Nordea,ATM Support - Mobilbank,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse","+45ATMNykreditNordeaBank
-
-
-
-Åben
-
-
-
-Man:
-0.00-24.00
-
-
-
-
-MarielystStrandvej54
-
-4873
-Væggerløse
-
-
-Sepåkort",www.nordea.dk
+2916,Nordea,ATM Support - Mobilbank,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse",,www.nordea.dk
+2917,Nordea,ATM Support - Mobilbank,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse",,www.nordea.dk
 2918,Nordea,Derivat Administration,,,,,www.nordea.dk
 2919,Nordea,First Card Executive,,,,,www.nordea.dk
 2920,Nordea,Korresp. Banker,,,,,www.nordea.dk
@@ -1611,60 +1310,10 @@ Sepåkort",www.nordea.dk
 3137,Danske Bank,Koncernkort,,,,,www.danskebank.dk
 3138,Danske Bank,Ballerup,,"Danske Bank Ballerup
 
-Bank","Centrumgaden 4, 2750 Ballerup","+45DanskeBankBallerup
-
-
-
-Åbeni1t.59min.mere
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Centrumgaden4
-
-2750
-Ballerup
-
-
-Sepåkort",www.danskebank.dk
+Bank","Centrumgaden 4, 2750 Ballerup",+4545124690,www.danskebank.dk
 3139,Danske Bank,Ballerup,,"Danske Bank Ballerup
 
-Bank","Centrumgaden 4, 2750 Ballerup","+45DanskeBankBallerup
-
-
-
-Åbeni1t.59min.mere
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Centrumgaden4
-
-2750
-Ballerup
-
-
-Sepåkort",www.danskebank.dk
+Bank","Centrumgaden 4, 2750 Ballerup",+4545124690,www.danskebank.dk
 3140,Danske Bank,Bagsværd,,Danske Bank Bagsværd Afdeling,"Bagsværd Hovedgade 150, 2880 Bagsværd",+4545122850,www.danskebank.dk
 3141,Danske Bank,Rd. Område Vest-sekretariatet,,Danske Bank Bagsværd Afdeling,"Bagsværd Hovedgade 150, 2880 Bagsværd",+4545122850,www.danskebank.dk
 3143,Danske Bank,International Trade Promotion,,,,,www.danskebank.dk
@@ -1678,32 +1327,7 @@ Sepåkort",www.danskebank.dk
 3156,Danske Bank,Nørrebro,,Danske Bank Nørrebro Afdeling,"Nørrebrogade 26, 2200 København N",+4545122720,www.danskebank.dk
 3159,Danske Bank,Ballerup,,"Danske Bank Ballerup
 
-Bank","Centrumgaden 4, 2750 Ballerup","+45DanskeBankBallerup
-
-
-
-Åbeni1t.59min.mere
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Centrumgaden4
-
-2750
-Ballerup
-
-
-Sepåkort",www.danskebank.dk
+Bank","Centrumgaden 4, 2750 Ballerup",+4545124690,www.danskebank.dk
 3161,Danske Bank,Lyngby,,Danske Bank Lyngby Afdeling,"Lyngby Hovedgade 25, 2800 Lyngby",+4545124800,www.danskebank.dk
 3162,Danske Bank,Lyngby,,Danske Bank Lyngby Afdeling,"Lyngby Hovedgade 25, 2800 Lyngby",+4545124800,www.danskebank.dk
 3163,Danske Bank,Helsingør,,Danske Bank Helsingør Afdeling,"Stengade 57B, 3000 Helsingør",+4545120560,www.danskebank.dk
@@ -1784,32 +1408,7 @@ Sepåkort",www.danskebank.dk
 3321,Danske Bank,N/A,,Danske Bank Nørrebro Afdeling,"Nørrebrogade 26, 2200 København N",+4545122720,www.danskebank.dk
 3322,Danske Bank,Ballerup,,"Danske Bank Ballerup
 
-Bank","Centrumgaden 4, 2750 Ballerup","+45DanskeBankBallerup
-
-
-
-Åbeni1t.59min.mere
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Centrumgaden4
-
-2750
-Ballerup
-
-
-Sepåkort",www.danskebank.dk
+Bank","Centrumgaden 4, 2750 Ballerup",+4545124690,www.danskebank.dk
 3324,Danske Bank,Corporate Finance-Denmark,,,,,www.danskebank.dk
 3325,Danske Bank,Nærum,,Danske Bank Nærumvænge Afdeling,"Nærumvænge Torv 10, 2850 Nærum",+4545122270,www.danskebank.dk
 3326,Danske Bank,Ishøj,,Danske Bank Ishøj Afdeling,"Ishøj Vestergade 12, 2635 Ishøj",+4545123840,www.danskebank.dk
@@ -1827,32 +1426,7 @@ Sepåkort",www.danskebank.dk
 3350,Danske Bank,Hvidovre,,Danske Bank Hvidovre Afdeling,"Hvidovrevej 135, 2650 Hvidovre",+4545122730,www.danskebank.dk
 3357,Danske Bank,Ballerup,,"Danske Bank Ballerup
 
-Bank","Centrumgaden 4, 2750 Ballerup","+45DanskeBankBallerup
-
-
-
-Åbeni1t.59min.mere
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Centrumgaden4
-
-2750
-Ballerup
-
-
-Sepåkort",www.danskebank.dk
+Bank","Centrumgaden 4, 2750 Ballerup",+4545124690,www.danskebank.dk
 3359,Danske Bank,"Danske Capital, Business Management",,Danske Bank Lyngby Afdeling,"Lyngby Hovedgade 25, 2800 Lyngby",+4545124800,www.danskebank.dk
 3361,Danske Bank,Amager,,Danske Bank Amager Afdeling,"Amagerbrogade 105, 2300 København S",+4545120280,www.danskebank.dk
 3386,Danske Bank,Middelfart,,Danske Bank Middelfart Afdeling,"Algade 35, 5500 Middelfart",+4545125060,www.danskebank.dk
@@ -2198,32 +1772,7 @@ Sepåkort",www.danskebank.dk
 4440,Danske Bank,Glostrup,,Danske Bank Glostrup Afdeling,"Hovedvejen 109, 2600 Glostrup",+4545126700,www.danskebank.dk
 4444,Danske Bank,Ballerup,,"Danske Bank Ballerup
 
-Bank","Centrumgaden 4, 2750 Ballerup","+45DanskeBankBallerup
-
-
-
-Åbeni1t.58min.mere
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Centrumgaden4
-
-2750
-Ballerup
-
-
-Sepåkort",www.danskebank.dk
+Bank","Centrumgaden 4, 2750 Ballerup",+4545124690,www.danskebank.dk
 4447,Danske Bank,Bolig Service,,,,,www.danskebank.dk
 4448,Danske Bank,Tåstrup,,,,,www.danskebank.dk
 4450,Danske Bank,,,,,,www.danskebank.dk
@@ -2362,7 +1911,7 @@ Sepåkort",www.danskebank.dk
 4955,Danske Bank,Ringsted,,Danske Bank Ringsted Afdeling,"Torvet 6, 4100 Ringsted",+4545125000,www.danskebank.dk
 4956,Danske Bank,Handelsfinans,,,,,www.danskebank.dk
 4957,Nordania Leasing Bank,N/A,,,,,www.nordania.dk
-4971,Danske Bank,Danske Ejendomme ,Alm. Brand Bank,Danske Bank Lyngby Afdeling,"Lyngby Hovedgade 25, 2800 Lyngby",+4545124800,www.danskebank.dk
+4971,Danske Bank,Danske Ejendomme,Alm. Brand Bank,Danske Bank Lyngby Afdeling,"Lyngby Hovedgade 25, 2800 Lyngby",+4545124800,www.danskebank.dk
 5002,Jyske Bank,Pbc. Berben,,,,,www.jyskebank.dk
 5005,Jyske Bank,Private Banking,,,,,www.jyskebank.dk
 5006,Jyske Bank,International Betaling/Trade Finance,,,,,www.jyskebank.dk
@@ -2455,8 +2004,8 @@ Sepåkort",www.danskebank.dk
 5191,FS Bank,(Closed),,,,,www.fsbank.dk
 5192,FS Bank,(Closed),,,,,www.fsbank.dk
 5195,FS Bank,(Closed),,,,,www.fsbank.dk
-5201,FS Bank,Closed ,Amagerbanken,,,,www.fsbank.dk
-5202,FS Bank,Closed ,Amagerbanken,,,,www.fsbank.dk
+5201,FS Bank,Closed,Amagerbanken,,,,www.fsbank.dk
+5202,FS Bank,Closed,Amagerbanken,,,,www.fsbank.dk
 5203,FS Bank,(Closed),,,,,www.fsbank.dk
 5204,FS Bank,(Closed),,,,,www.fsbank.dk
 5205,FS Bank,(Closed),,,,,www.fsbank.dk
@@ -2478,13 +2027,13 @@ Sepåkort",www.danskebank.dk
 5223,FS Bank,(Closed),,,,,www.fsbank.dk
 5224,FS Bank,(Closed),,,,,www.fsbank.dk
 5225,FS Bank,(Closed),,,,,www.fsbank.dk
-5226,FS Bank,Closed ,Amagerbanken,,,,www.fsbank.dk
+5226,FS Bank,Closed,Amagerbanken,,,,www.fsbank.dk
 5227,FS Bank,(Closed),,,,,www.fsbank.dk
 5228,FS Bank,(Closed),,,,,www.fsbank.dk
 5229,FS Bank,(Closed),,,,,www.fsbank.dk
 5230,FS Bank,(Closed),,,,,www.fsbank.dk
 5231,FS Bank,(Closed),,,,,www.fsbank.dk
-5252,,Closed ,Topdanmark Direkte Bank,,,,
+5252,,Closed,Topdanmark Direkte Bank,,,,
 5290,Dnb Bank Asa,Filial af Dnb Bank,,,,,www.dnb.no
 5292,Sparekassen Sjælland,Erhvervsafdelingen,,,,,alm.spks.dk
 5295,Skandinaviska Enskilda Banken,Danmark,,,,,www.seb.dk
@@ -2572,239 +2121,19 @@ Sepåkort",www.danskebank.dk
 5451,Sammenslutningen af Danske Andelskasser,N/A,,,,,www.andelskassen.dk
 5470,Nykredit Bank,Hovedkontor,,,,,www.nykredit.dk
 5471,Nykredit Bank,Tåstrup Erhvervs- og Investerings Center,,Nykredit Tåstrup Privat,"Taastrup Hovedgade 50, 2630 Taastrup",+4544553999,www.nykredit.dk
-5472,Nykredit Bank,Ballerup Erhvervs- og Investerings Center,,Nykredit Privat Ballerup,"Centrumgaden 15, 2750 Ballerup","+45NykreditPrivatBallerup
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-Centrumgaden15
-
-2750
-Ballerup
-
-
-Sepåkort",www.nykredit.dk
+5472,Nykredit Bank,Ballerup Erhvervs- og Investerings Center,,Nykredit Privat Ballerup,"Centrumgaden 15, 2750 Ballerup",+4570109000,www.nykredit.dk
 5473,Nykredit Bank,Lynby Erhvervs- og Investerings Center,,Nykredit Tåstrup Privat,"Taastrup Hovedgade 50, 2630 Taastrup",+4544553999,www.nykredit.dk
-5474,Nykredit Bank,Charlottenlund Erhvervs- og Investerings Center,,Nykredit Privat Charlottenlund,"Jægersborg Alle 36, 2920 Charlottenlund","+45NykreditPrivatCharlottenlund
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-JægersborgAlle36
-
-2920
-Charlottenlund
-
-
-Sepåkort",www.nykredit.dk
-5475,Nykredit Bank,Rødovre Center Erhvervs- og Investerings Center,,Nykredit Privat Rødovre,"Rødovre Centrum 108, 2610 Rødovre","+45NykreditPrivatRødovre
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-RødovreCentrum108
-
-2610
-Rødovre
-
-
-Sepåkort",www.nykredit.dk
-5476,Nykredit Bank,Frederiksberg Erhvervs- og Investerings Center,,Nykredit Privat Frederiksberg,"Gammel Kongevej 124, 1850 Frederiksberg","+45NykreditPrivatFrederiksberg
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-GammelKongevej124
-
-1850
-Frederiksberg
-
-
-Sepåkort",www.nykredit.dk
-5478,Nykredit Bank,Hellerup Erhvervs- og Investerings Center,,Nykredit Privat Hellerup,"Strandvejen 141, 2900 Hellerup","+45NykreditPrivatHellerup
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-Strandvejen141
-
-2900
-Hellerup
-
-
-Sepåkort",www.nykredit.dk
+5474,Nykredit Bank,Charlottenlund Erhvervs- og Investerings Center,,Nykredit Privat Charlottenlund,"Jægersborg Alle 36, 2920 Charlottenlund",+4570109000,www.nykredit.dk
+5475,Nykredit Bank,Rødovre Center Erhvervs- og Investerings Center,,Nykredit Privat Rødovre,"Rødovre Centrum 108, 2610 Rødovre",+4570109000,www.nykredit.dk
+5476,Nykredit Bank,Frederiksberg Erhvervs- og Investerings Center,,Nykredit Privat Frederiksberg,"Gammel Kongevej 124, 1850 Frederiksberg",+4570109000,www.nykredit.dk
+5478,Nykredit Bank,Hellerup Erhvervs- og Investerings Center,,Nykredit Privat Hellerup,"Strandvejen 141, 2900 Hellerup",+4570109000,www.nykredit.dk
 5479,Nykredit Bank,,,,,,www.nykredit.dk
-5490,Nykredit Bank,Hørsholm Erhvervs- og Investerings Center,,Nykredit Privat Hørsholm,"Hovedgaden 55A, 2970 Hørsholm","+45NykreditPrivatHørsholm
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-Hovedgaden55A
-
-2970
-Hørsholm
-
-
-Sepåkort",www.nykredit.dk
-5491,Nykredit Bank,Birkerød Erhvervs- og Investerings Center,,Nykredit Privat Birkerød,"Hovedgaden 2- 4, 3460 Birkerød","+45NykreditPrivatBirkerød
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-Hovedgaden2-4
-
-3460
-Birkerød
-
-
-Sepåkort",www.nykredit.dk
-5492,Nykredit Bank,Hillerød Erhvervs- og Investerings Center,,Nykredit Privat Hillerød,"Søndre Jernbanevej 4, 3400 Hillerød","+45NykreditPrivatHillerød
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-SøndreJernbanevej4
-
-3400
-Hillerød
-
-
-Sepåkort",www.nykredit.dk
-5493,Nykredit Bank,Østerbro Erhvervs- og Investerings Center,,Nykredit Privat Østerbro,"Kristianiagade 1, 2100 København Ø","+45NykreditPrivatØsterbro
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-Kristianiagade1
-
-2100
-KøbenhavnØ
-
-
-Sepåkort",www.nykredit.dk
-5494,Nykredit Bank,Helsingør Erhvervs- og Investerings Center,,Nykredit Privat Helsingør,"Stengade 63, 3000 Helsingør","+45NykreditPrivatHelsingør
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-Stengade63
-
-3000
-Helsingør
-
-
-Sepåkort",www.nykredit.dk
-5495,Nykredit Bank,Århus Erhvervs- og Investerings Center,,Nykredit Privat Århus,"Domkirkepladsen 1, 8100 Århus C","+45NykreditPrivatÅrhus
-
-
-
-Lukket
-
-
-
-Man:
-9.00-16.00
-
-
-
-
-Domkirkepladsen1
-
-8100
-ÅrhusC
-
-
-Sepåkort",www.nykredit.dk
+5490,Nykredit Bank,Hørsholm Erhvervs- og Investerings Center,,Nykredit Privat Hørsholm,"Hovedgaden 55A, 2970 Hørsholm",+4570109000,www.nykredit.dk
+5491,Nykredit Bank,Birkerød Erhvervs- og Investerings Center,,Nykredit Privat Birkerød,"Hovedgaden 2- 4, 3460 Birkerød",+4570109000,www.nykredit.dk
+5492,Nykredit Bank,Hillerød Erhvervs- og Investerings Center,,Nykredit Privat Hillerød,"Søndre Jernbanevej 4, 3400 Hillerød",+4570109000,www.nykredit.dk
+5493,Nykredit Bank,Østerbro Erhvervs- og Investerings Center,,Nykredit Privat Østerbro,"Kristianiagade 1, 2100 København Ø",+4570109000,www.nykredit.dk
+5494,Nykredit Bank,Helsingør Erhvervs- og Investerings Center,,Nykredit Privat Helsingør,"Stengade 63, 3000 Helsingør",+4570109000,www.nykredit.dk
+5495,Nykredit Bank,Århus Erhvervs- og Investerings Center,,Nykredit Privat Århus,"Domkirkepladsen 1, 8100 Århus C",+4570109000,www.nykredit.dk
 5496,Nykredit Bank,,,,,,www.nykredit.dk
 5499,Nykredit Bank,Pensionsservice,,,,,www.nykredit.dk
 5501,Nordea,Vesterport,,Nordea Vesterport Afdeling,"Vesterbrogade 8, 1620 København V",+4570333333,www.nordea.dk
@@ -3029,27 +2358,7 @@ Sepåkort",www.nykredit.dk
 5882,Nordea,Vejen,,Nordea Vejen Afdeling,"Rådhuspassagen 2, 6600 Vejen",+4570333333,www.nordea.dk
 5890,Nordea,Herning,,Nordea Herning Afdeling,"Bredgade 30, 7400 Herning",+4570333333,www.nordea.dk
 5900,Nordea,Hedehusene,,,,,www.nordea.dk
-5908,Nordea,Atm Support,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse","+45ATMNykreditNordeaBank
-
-
-
-Åben
-
-
-
-Man:
-0.00-24.00
-
-
-
-
-MarielystStrandvej54
-
-4873
-Væggerløse
-
-
-Sepåkort",www.nordea.dk
+5908,Nordea,Atm Support,,ATM Nykredit Nordea Bank,"Marielyst Strandvej 54, 4873 Væggerløse",,www.nordea.dk
 5910,Nordea,Åbyhøj,,Nordea Åbyhøj Afdeling,"Silkeborgvej 261- 263, 8230 Åbyhøj",+4570333333,www.nordea.dk
 5911,Nordea,Risskov,,Nordea Risskov Afdeling,"Holmens Vej 2, 8240 Risskov",+4570333333,www.nordea.dk
 5912,Nordea,Frederiksbjerg,,Nordea Frederiksbjerg Afdeling,"De Mezas Vej 1, 8000 Aarhus C",+4570333333,www.nordea.dk
@@ -3117,7 +2426,7 @@ Sepåkort",www.nordea.dk
 6010,Cargill Bank,N/A,,,,,www.cargill.com
 6011,Swedbank,,,,,,www.swedbank.dk
 6060,Diba Bank,,,,,,www.diba.dk
-6070,Sparekassen Sjælland,Hovedsædet ,Max Bank,Sparekassen Sjælland Nykøbing Sj.,"Algade 12, 4500 Nykøbing Sj.",+4559911515,alm.spks.dk
+6070,Sparekassen Sjælland,Hovedsædet,Max Bank,Sparekassen Sjælland Nykøbing Sj.,"Algade 12, 4500 Nykøbing Sj.",+4559911515,alm.spks.dk
 6075,Sparekassen Sjælland,Næstved,,Sparekassen Sjælland Næstved,"Grønnegade 20, 4700 Næstved",+4556165000,alm.spks.dk
 6085,Sparekassen Sjælland,Nordbanken København,,Sparekassen Sjælland København S,"Amagerbrogade 112, 2300 København S",+4559482270,alm.spks.dk
 6100,Skandinaviska Enskilda Banken,Danmark,,,,,www.seb.dk
@@ -3143,7 +2452,7 @@ Sepåkort",www.nordea.dk
 6130,Sparekassen Kronjylland,Grenå,,,,,www.sparkron.dk
 6132,Sparekassen Kronjylland,Hovedsædet,,,,,www.sparkron.dk
 6140,Møns Bank,,,,,,www.moensbank.dk
-6150,Sparekassen Sjælland,Hovedsædet ,Skælskør Bank,Sparekassen Sjælland Skælskør,"Algade 18, 4230 Skælskør",+4559576040,alm.spks.dk
+6150,Sparekassen Sjælland,Hovedsædet,Skælskør Bank,Sparekassen Sjælland Skælskør,"Algade 18, 4230 Skælskør",+4559576040,alm.spks.dk
 6160,FS Bank,Hovedkontoret,,,,,www.fsbank.dk
 6180,Sparekassen Kronjylland,Århus City,,,,,www.sparkron.dk
 6181,Sparekassen Kronjylland,Århus Erhverv,,,,,www.sparkron.dk
@@ -3171,7 +2480,7 @@ Sepåkort",www.nordea.dk
 6265,Jyske Bank,Servicecenter Holstebro,,"Jyske Bank Holstebro, St. Torv","St. Torv 1, 7500 Holstebro",+4589893600,www.jyskebank.dk
 6267,Jyske Bank,Servicecenter Silkeborg,,Jyske Bank Silkeborg Alderslyst,"Borgergade 24, 8600 Silkeborg",+4589898120,www.jyskebank.dk
 6268,Jyske Bank,Forretningsudvikling,,,,,www.jyskebank.dk
-6300,Handelsbanken,Rde ,Lokalbanken Nordsjælland,,,,www.handelsbanken.dk
+6300,Handelsbanken,Rde,Lokalbanken Nordsjælland,,,,www.handelsbanken.dk
 6301,Handelsbanken,Rde,,,,,www.handelsbanken.dk
 6302,Handelsbanken,Rde,,,,,www.handelsbanken.dk
 6326,Jyske Bank,Forretningskoncepter,,,,,www.jyskebank.dk
@@ -3383,37 +2692,7 @@ Bank","Hammerum Hovedgade 57, 7400 Herning",+4544565800,www.handelsbanken.dk
 7370,Nordjyske Bank,Hjørring,,,,,www.nordjyskebank.dk
 7371,Nordjyske Bank,Hirtshals,,"Nordjyske Bank Hirtshals
 
-Bank","Jørgen Fibigersgade 16, 9850 Hirtshals","+45NordjyskeBankHirtshals
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Vej
-
-JørgenFibigersgade16
-
-9850
-Hirtshals
-
-
-Sepåkort
-
-Service:
-Penge",www.nordjyskebank.dk
+Bank","Jørgen Fibigersgade 16, 9850 Hirtshals",+4598941600,www.nordjyskebank.dk
 7372,Nordjyske Bank,,,,,,www.nordjyskebank.dk
 7375,Nordjyske Bank,Brønderslev,,,,,www.nordjyskebank.dk
 7379,Nordjyske Bank,Fjernkundeafdelingen,,,,,www.nordjyskebank.dk
@@ -3453,61 +2732,11 @@ Penge",www.nordjyskebank.dk
 7441,Nørresundby Bank,Kastetvej,,,,,alm.nrsbank.dk
 7442,Nørresundby Bank,Vejgaard,,"Nørresundby Bank
 
-bank","Vejgaard Torv, 9000 Aalborg","+45NørresundbyBank
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-bank
-
-
-
-VejgaardTorv
-
-9000
-Aalborg
-
-
-Sepåkort",alm.nrsbank.dk
+bank","Vejgaard Torv, 9000 Aalborg",+4598704400,alm.nrsbank.dk
 7443,Nørresundby Bank,Vestre Allé,,,,,alm.nrsbank.dk
 7444,Nørresundby Bank,Vejgaard,,"Nørresundby Bank
 
-bank","Vejgaard Torv, 9000 Aalborg","+45NørresundbyBank
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-bank
-
-
-
-VejgaardTorv
-
-9000
-Aalborg
-
-
-Sepåkort",alm.nrsbank.dk
+bank","Vejgaard Torv, 9000 Aalborg",+4598704400,alm.nrsbank.dk
 7445,Nørresundby Bank,Brønderslev,,,,,alm.nrsbank.dk
 7446,Nørresundby Bank,Bredegade,,,,,alm.nrsbank.dk
 7447,Nørresundby Bank,Aabybro,,,,,alm.nrsbank.dk
@@ -3515,92 +2744,17 @@ Sepåkort",alm.nrsbank.dk
 7449,Nørresundby Bank,Vestbjerg,,,,,alm.nrsbank.dk
 7450,Nørresundby Bank,Nørresundby,,"Nørresundby Bank
 
-bank","Vejgaard Torv, 9000 Aalborg","+45NørresundbyBank
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-bank
-
-
-
-VejgaardTorv
-
-9000
-Aalborg
-
-
-Sepåkort",alm.nrsbank.dk
+bank","Torvet 4, 9400 Nørresundby",+4598703010,alm.nrsbank.dk
 7451,Nørresundby Bank,Hjallerup,,,,,alm.nrsbank.dk
 7452,Nørresundby Bank,Nørresundby,,"Nørresundby Bank
 
-bank","Vejgaard Torv, 9000 Aalborg","+45NørresundbyBank
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-bank
-
-
-
-VejgaardTorv
-
-9000
-Aalborg
-
-
-Sepåkort",alm.nrsbank.dk
+bank","Torvet 4, 9400 Nørresundby",+4598703010,alm.nrsbank.dk
 7453,Nørresundby Bank,Nørre Uttrup,,,,,alm.nrsbank.dk
 7454,Nørresundby Bank,Aabybro,,,,,alm.nrsbank.dk
 7455,Nørresundby Bank,Vodskov,,,,,alm.nrsbank.dk
 7456,Nørresundby Bank,Nørresundby,,"Nørresundby Bank
 
-bank","Vejgaard Torv, 9000 Aalborg","+45NørresundbyBank
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-bank
-
-
-
-VejgaardTorv
-
-9000
-Aalborg
-
-
-Sepåkort",alm.nrsbank.dk
+bank","Torvet 4, 9400 Nørresundby",+4598703010,alm.nrsbank.dk
 7457,Nørresundby Bank,Vestbjerg,,,,,alm.nrsbank.dk
 7458,Nørresundby Bank,Nørre Uttrup,,,,,alm.nrsbank.dk
 7459,Nørresundby Bank,Vesterbro,,,,,alm.nrsbank.dk
@@ -3797,34 +2951,7 @@ Bank","Vestergade 2, 7430 Ikast",+4544565000,www.handelsbanken.dk
 7921,Sydbank,,,,,,www.sydbank.dk
 7922,Sydbank,,,,,,www.sydbank.dk
 7925,Sydbank,,,,,,www.sydbank.dk
-7930,Kreditbanken,Åbenrå,,"kreditbanken
-
-bank","hp hansensgade, 6200 Åbenrå","+45kreditbanken
-
-
-
-Lukket
-
-
-
-Man:
-8.00-16.00
-
-
-
-
-
-bank
-
-
-
-hphansensgade
-
-6200
-Åbenrå
-
-
-Sepåkort",www.kreditbanken.dk
+7930,Kreditbanken,Aabenraa,,,"H P Hansensgade, 6200 Aabenraa",+4573331700,www.kreditbanken.dk
 7931,Kreditbanken,Sønderborg (Aka. Sønderborg Kreditbank),,,,,www.kreditbanken.dk
 7932,Kreditbanken,Haderslev (Aka. Haderslev Kreditbank),,,,,www.kreditbanken.dk
 7933,Kreditbanken,Tønder (Aka. Tønder Kreditbank),,,,,www.kreditbanken.dk
@@ -3856,39 +2983,9 @@ Sepåkort",www.kreditbanken.dk
 8079,Sydbank,Økonomi,,,,,www.sydbank.dk
 8090,Nordjyske Bank,Frederikshavn,,,,,www.nordjyskebank.dk
 8091,Nordjyske Bank,Bangsbostrand,,,,,www.nordjyskebank.dk
-8099,Nordjyske Bank,Økonomi og EDB ,Egnsbank Nord,"Nordjyske Bank Hirtshals
+8099,Nordjyske Bank,Økonomi og EDB,Egnsbank Nord,"Nordjyske Bank Hirtshals
 
-Bank","Jørgen Fibigersgade 16, 9850 Hirtshals","+45NordjyskeBankHirtshals
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Vej
-
-JørgenFibigersgade16
-
-9850
-Hirtshals
-
-
-Sepåkort
-
-Service:
-Penge",www.nordjyskebank.dk
+Bank","Jørgen Fibigersgade 16, 9850 Hirtshals",+4598941600,www.nordjyskebank.dk
 8109,Jyske Bank,,,,,,www.jyskebank.dk
 8113,Nykredit Bank,,,,,,www.nykredit.dk
 8114,Nykredit Bank,Indbetalingsservice,,,,,www.nykredit.dk
@@ -4001,52 +3098,20 @@ Bank","Østervold 16, 8900 Randers C",+4572250260,www.sparnord.dk
 9012,Spar Nord,Sæby,,,,,www.sparnord.dk
 9015,Spar Nord,Skagen,,,,,www.sparnord.dk
 9016,Spar Nord,Regnskabsfunktionen,,,,,www.sparnord.dk
-9020,Sparekassen Vendsyssel,Hovedkontoret ,Sparekassen Hvetbo,"Sparekassen Vendsyssel
-
-Bank","Jyllandsgde 10, 9850 Hirtshals","+45SparekassenVendsyssel
-
-
-
-Lukket
-
-
-
-Man:
-10.00-16.00
-
-
-
-
-
-Bank
-
-
-
-Vej
-
-Jyllandsgde10
-
-9850
-Hirtshals
-
-
-Sepåkort
-
-Service:
-Penge",www.sparekassen-vendsyssel.dk
+9020,Sparekassen Vendsyssel,Hovedkontoret,Sparekassen Hvetbo,Sparekassen Vendsyssel,"Østergade 15, 9760 Vrå",+4582229000,www.sparekassen-vendsyssel.dk
 9022,Brovst Sparekasse,N/A,,,,,
 9024,Nordjyske Bank,Øster Brønderslev,,,,,
 9025,Jerslev Sparekasse,N/A,,,,,
 9028,Spar Nord,"Algade, Brønderslev",,,,,www.sparnord.dk
 9029,Spar Nord,Roskilde,,,,,www.sparnord.dk
-9033,Nordjyske Bank,Løkken ,Løkken Sparekasse,,,,
+9033,Nordjyske Bank,Løkken,Løkken Sparekasse,,,,
 9035,Spar Nord,Storkundeafdelingen,,,,,www.sparnord.dk
 9037,Spar Nord,"Aalborg, City Syd",,,,,www.sparnord.dk
 9040,Spar Nord,Holbæk,,,,,www.sparnord.dk
 9041,Danske Bank,Frederikshavn,,Danske Bank Frederikshavn Afdeling,"Danmarksgade 70E, 9900 Frederikshavn",+4545125410,www.danskebank.dk
 9044,Dronninglund Sparekasse,,,,,,www.dronspar.dk
 9046,Spar Nord,Tårs,,,,,www.sparnord.dk
-9048,Unknown,Maybe Spar Nord ,Jelstrup-Lyngby Sparekasse,,,,
+9048,Unknown,Maybe Spar Nord,Jelstrup-Lyngby Sparekasse,,,,
 9049,Spar Nord,Spar Nord Direkte,,"Spar Nord Herning
 
 Bank","Dalgas Plads 4, 7400 Herning",+4597117000,www.sparnord.dk
@@ -4066,7 +3131,7 @@ Bank","Dalgas Plads 4, 7400 Herning",+4597117000,www.sparnord.dk
 9076,Spar Nord,Hånbæk,,,,,www.sparnord.dk
 9077,Spar Nord,Køge,,,,,www.sparnord.dk
 9078,Spar Nord,Skive,,,,,www.sparnord.dk
-9080,FS Bank,Closed ,EBH Bank,,,,
+9080,FS Bank,Closed,EBH Bank,,,,
 9081,Sparekassen Thy,,,,,,www.sparthy.dk
 9083,Sparekassen Thy,Hanstholm,,,,,www.sparthy.dk
 9086,Sparekassen Thy,Hurup,,,,,www.sparthy.dk
@@ -4115,7 +3180,7 @@ Bank","Dalgas Plads 4, 7400 Herning",+4597117000,www.sparnord.dk
 9190,Spar Nord,,,,,,www.sparnord.dk
 9196,Spar Nord,Fredericia,,,,,www.sparnord.dk
 9200,Spar Nord,Hadsund,,,,,www.sparnord.dk
-9201,Jutlander Bank,Ranum ,Sparekassen Midtfjord,,,,www.jutlander.dk
+9201,Jutlander Bank,Ranum,Sparekassen Midtfjord,,,,www.jutlander.dk
 9202,Jutlander Bank,"Østerbrogade 26, 9670 Løgstør",,,,,www.jutlander.dk
 9203,Jutlander Bank,Overlade,,,,,www.jutlander.dk
 9206,Danske Bank,Hjørring,,Danske Bank Hjørring Afdeling,"Østergade 26, 9800 Hjørring",+4545120100,www.danskebank.dk
@@ -4183,7 +3248,7 @@ Bank","Østervold 16, 8900 Randers C",+4572250260,www.sparnord.dk
 9285,Fuur Sparekasse,N/A,,,,,
 9286,Spar Nord,Hasseris,,,,,www.sparnord.dk
 9287,Spar Nord,Formuecenter Aalborg,,,,,www.sparnord.dk
-9289,Spar Nord,Skive ,Sparekassen Midt Vest,,,,www.sparnord.dk
+9289,Spar Nord,Skive,Sparekassen Midt Vest,,,,www.sparnord.dk
 9291,Roslev Sparekasse,,,,,,
 9292,Sparekassen Sundsøre,N/A,,,,,
 9294,Sparekassen Kronjylland,Stoholm,,,,,www.sparkron.dk
@@ -4366,7 +3431,7 @@ Bank","Adelgade 44, 9500 Hobro",+4598512550,www.jutlander.dk
 9544,Danske Bank,Vejle,,Danske Bank Vejle Afdeling,"Kirkegade 21, 7100 Vejle",+4545122200,www.danskebank.dk
 9545,Danske Bank,Vejle,,Danske Bank Vejle Afdeling,"Kirkegade 21, 7100 Vejle",+4545122200,www.danskebank.dk
 9547,Danske Bank,Give,,,,,www.danskebank.dk
-9551,Den Jyske Sparekasse,Jelling ,Jelling Sparekasse,,,,www.djs.dk
+9551,Den Jyske Sparekasse,Jelling,Jelling Sparekasse,,,,www.djs.dk
 9552,Danske Bank,Give,,,,,www.danskebank.dk
 9554,Danske Bank,Tørring,,,,,www.danskebank.dk
 9556,Danske Bank,Give,,,,,www.danskebank.dk
@@ -4464,7 +3529,7 @@ Bank","Adelgade 44, 9500 Hobro",+4598512550,www.jutlander.dk
 9692,Danske Bank,Ribe,,Danske Bank Ribe Afdeling,"J Lauritzens Plads 3, 6760 Ribe",+4545122040,www.danskebank.dk
 9693,Danske Bank,Bramming,,,,,www.danskebank.dk
 9694,Saxo Privatbank,Holsted,,,,,dk.saxobank.com
-9695,Saxo Privatbank,Brørup ,Brørup Sparekasse,,,,dk.saxobank.com
+9695,Saxo Privatbank,Brørup,Brørup Sparekasse,,,,dk.saxobank.com
 9698,Danske Bank,AP Pension,,,,,www.danskebank.dk
 9699,Danske Bank,Varde,,Danske Bank Varde Afdeling,"Kræmmergade 5, 6800 Varde",+4545123600,www.danskebank.dk
 9700,Danske Bank,Holsted,,,,,www.danskebank.dk
@@ -4533,7 +3598,7 @@ Bank","Lilletorv 8, 9640 Farsø",+4598657300,www.sparnord.dk
 9818,Spar Nord,Arden,,,,,www.sparnord.dk
 9819,Spar Nord,Næstved,,,,,www.sparnord.dk
 9823,Den Jyske Sparekasse,,,,,,www.djs.dk
-9824,Den Jyske Sparekasse,Løgumkloster ,Sparekassen Løgumkloster,,,,www.djs.dk
+9824,Den Jyske Sparekasse,Løgumkloster,Sparekassen Løgumkloster,,,,www.djs.dk
 9825,Danske Bank,Tønder,,Danske Bank Tønder Afdeling,"Vestergade 31, 6270 Tønder",+4545125190,www.danskebank.dk
 9826,Danske Bank,Privatcenter Hvidovre,,Danske Bank Hvidovre Afdeling,"Hvidovrevej 135, 2650 Hvidovre",+4545122730,www.danskebank.dk
 9827,Sparekassen Bredebro,Hovedkontoret,,,,,www.sparbredebro.dk
